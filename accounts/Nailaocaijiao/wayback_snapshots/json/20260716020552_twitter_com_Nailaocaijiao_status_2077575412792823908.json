@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077575402932027392"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2077575412792823908",
+    "created_at": "2026-07-16T02:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T03:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077575412792823908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8elJeuARMY",
+          "end": 35,
+          "expanded_url": "https://x.com/Nailaocaijiao/status/2077575412792823908/photo/1",
+          "media_key": "3_2077575402932027392",
+          "start": 12,
+          "url": "https://t.co/8elJeuARMY"
+        },
+        {
+          "display_url": "x.com/pqi39v5e2x1ebl…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/pqi39v5e2x1ebl0/status/2077242995309690981",
+          "start": 36,
+          "url": "https://t.co/Ysi3UEAx2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077575412792823908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077242995309690981",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鲨鲨当主播了，可爱捏～ https://t.co/8elJeuARMY https://t.co/Ysi3UEAx2N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2077575402932027392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUH0k3aQAA7wRV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077575402932027392"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2077575412792823908",
+        "created_at": "2026-07-16T02:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077575412792823908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8elJeuARMY",
+              "end": 35,
+              "expanded_url": "https://x.com/Nailaocaijiao/status/2077575412792823908/photo/1",
+              "media_key": "3_2077575402932027392",
+              "start": 12,
+              "url": "https://t.co/8elJeuARMY"
+            },
+            {
+              "display_url": "x.com/pqi39v5e2x1ebl…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/pqi39v5e2x1ebl0/status/2077242995309690981",
+              "start": 36,
+              "url": "https://t.co/Ysi3UEAx2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077575412792823908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077242995309690981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲨鲨当主播了，可爱捏～ https://t.co/8elJeuARMY https://t.co/Ysi3UEAx2N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085198867102986240",
+        "conversation_id": "2077242995309690981",
+        "created_at": "2026-07-15T04:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077242995309690981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "20220518 イブニング 放送事故",
+              "display_url": "youtu.be/hEVjzyJtLm8?si…",
+              "end": 23,
+              "expanded_url": "https://youtu.be/hEVjzyJtLm8?si=WGEXS4fbnMCyFe7X",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2075724688890966016/OCoIii3H?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075724688890966016/OCoIii3H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "20220518 ウェザーニュース イブニング 放送事故",
+              "unwound_url": "https://www.youtube.com/watch?si=WGEXS4fbnMCyFe7X&v=hEVjzyJtLm8&feature=youtu.be",
+              "url": "https://t.co/ab6C8ETHxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077242995309690981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 897,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ab6C8ETHxS\n\nナ二コレ？🦈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 4359,
+          "like_count": 7847,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-15T15:35:46.000Z",
+        "description": "ペンギン用として作りましたが、ペンギン6、サメ4くらいの割合でツイートします。サメとペンギンの反復横跳び。",
+        "id": "1085198867102986240",
+        "name": "ぺぺ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085199277456908292/Fd5CcB71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 225,
+          "like_count": 15934,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 3017
+        },
+        "url": "",
+        "username": "PQI39v5e2x1EbL0",
+        "verified": false
+      }
+    ]
+  }
+}

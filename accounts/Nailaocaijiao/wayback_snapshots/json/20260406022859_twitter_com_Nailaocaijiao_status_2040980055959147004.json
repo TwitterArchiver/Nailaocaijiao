@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1846338521503604736"
+      ],
+      "media_source_tweet_id": [
+        "1846339121876173307"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2040980055959147004",
+    "created_at": "2026-04-06T02:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040980055959147004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ikj5w3xMKZ",
+          "end": 85,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1846339121876173307/photo/1",
+          "media_key": "3_1846338521503604736",
+          "start": 62,
+          "url": "https://t.co/Ikj5w3xMKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040980055959147004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846339121876173307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿，嵩山少林寺武术学校招生办声称不仅能帮孩子戒网瘾、改叛逆，还能矫正跨性别。 https://t.co/Ikj5w3xMKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1846338521503604736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZ-DGl1XoAAuf79.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846338521503604736"
+          ],
+          "media_source_tweet_id": [
+            "1846339121876173307"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2040980055959147004",
+        "created_at": "2026-04-06T02:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040980055959147004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ikj5w3xMKZ",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1846339121876173307/photo/1",
+              "media_key": "3_1846338521503604736",
+              "start": 62,
+              "url": "https://t.co/Ikj5w3xMKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040980055959147004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846339121876173307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿，嵩山少林寺武术学校招生办声称不仅能帮孩子戒网瘾、改叛逆，还能矫正跨性别。 https://t.co/Ikj5w3xMKZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846338521503604736"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1846339121876173307",
+        "created_at": "2024-10-15T23:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-16T00:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1846339121876173307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ikj5w3xMKZ",
+              "end": 65,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1846339121876173307/photo/1",
+              "media_key": "3_1846338521503604736",
+              "start": 42,
+              "url": "https://t.co/Ikj5w3xMKZ"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1843108508662677637",
+              "start": 66,
+              "url": "https://t.co/Sf54hHV8k4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846339121876173307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 596462,
+          "like_count": 1232,
+          "quote_count": 38,
+          "reply_count": 170,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843108508662677637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网友投稿，嵩山少林寺武术学校招生办声称不仅能帮孩子戒网瘾、改叛逆，还能矫正跨性别。 https://t.co/Ikj5w3xMKZ https://t.co/Sf54hHV8k4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 3438,
+          "like_count": 5008,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 172
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197274,
+          "following_count": 1027,
+          "like_count": 9378,
+          "listed_count": 8618,
+          "media_count": 44764,
+          "tweet_count": 51836
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

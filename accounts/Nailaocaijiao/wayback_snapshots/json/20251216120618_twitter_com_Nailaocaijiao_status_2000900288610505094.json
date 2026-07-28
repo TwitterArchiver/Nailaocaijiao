@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000459265497247744"
+      ],
+      "media_source_tweet_id": [
+        "2000459414701220043"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2000900288610505094",
+    "created_at": "2025-12-16T12:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T13:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000900288610505094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0pPQIiZmHi",
+          "end": 56,
+          "expanded_url": "https://x.com/DDaquaforever/status/2000459414701220043/photo/1",
+          "media_key": "3_2000459265497247744",
+          "start": 33,
+          "url": "https://t.co/0pPQIiZmHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000900288610505094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000459414701220043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 不让用第三卫生间的傻逼保洁 https://t.co/0pPQIiZmHi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2000459265497247744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MPGmOaMAA6Bl_.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000459265497247744"
+          ],
+          "media_source_tweet_id": [
+            "2000459414701220043"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2000900288610505094",
+        "created_at": "2025-12-16T12:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000900288610505094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pPQIiZmHi",
+              "end": 56,
+              "expanded_url": "https://x.com/DDaquaforever/status/2000459414701220043/photo/1",
+              "media_key": "3_2000459265497247744",
+              "start": 33,
+              "url": "https://t.co/0pPQIiZmHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000900288610505094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000459414701220043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 不让用第三卫生间的傻逼保洁 https://t.co/0pPQIiZmHi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000459265497247744"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2000459414701220043",
+        "created_at": "2025-12-15T06:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000459414701220043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pPQIiZmHi",
+              "end": 37,
+              "expanded_url": "https://x.com/DDaquaforever/status/2000459414701220043/photo/1",
+              "media_key": "3_2000459265497247744",
+              "start": 14,
+              "url": "https://t.co/0pPQIiZmHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000459414701220043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 20738,
+          "like_count": 165,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不让用第三卫生间的傻逼保洁 https://t.co/0pPQIiZmHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 609,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了",
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 748,
+          "like_count": 361,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 593
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

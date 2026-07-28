@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2071496270611714494",
+    "created_at": "2026-06-29T07:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071496784736833715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "threads.com/@mirro_zinuo/p…",
+          "end": 48,
+          "expanded_url": "https://www.threads.com/@mirro_zinuo/post/DaJp7OojZ94?xmt=AQG065gm8B5aGisQ-bWYmwepwLJHGjuuyxoFd8UGzenHBmEFlKIB8T9oNst1rBXvZWMna1ea&slof=1",
+          "start": 25,
+          "status": 200,
+          "title": "鄧梓糯 (@mirro_zinuo) on Threads",
+          "unwound_url": "https://www.threads.com/@mirro_zinuo/post/DaJp7OojZ94?slof=1",
+          "url": "https://t.co/7RhM8w3e7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071496784736833715",
+    "in_reply_to_user_id": "1909290364328108032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071496270611714494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原文来自Threads用户mirro_zinuo：https://t.co/7RhM8w3e7h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1414,
+        "media_key": "3_2071496265746280448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9u4OFa8AA0ay6.jpg",
+        "width": 1061
+      },
+      {
+        "height": 1582,
+        "media_key": "3_2071496265750523904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9u4OGbsAARF73.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2071496270611714494",
+        "created_at": "2026-06-29T07:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071496784736833715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "threads.com/@mirro_zinuo/p…",
+              "end": 48,
+              "expanded_url": "https://www.threads.com/@mirro_zinuo/post/DaJp7OojZ94?xmt=AQG065gm8B5aGisQ-bWYmwepwLJHGjuuyxoFd8UGzenHBmEFlKIB8T9oNst1rBXvZWMna1ea&slof=1",
+              "start": 25,
+              "status": 200,
+              "title": "鄧梓糯 (@mirro_zinuo) on Threads",
+              "unwound_url": "https://www.threads.com/@mirro_zinuo/post/DaJp7OojZ94?slof=1",
+              "url": "https://t.co/7RhM8w3e7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071496784736833715",
+        "in_reply_to_user_id": "1909290364328108032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071496270611714494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原文来自Threads用户mirro_zinuo：https://t.co/7RhM8w3e7h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071496265746280448",
+            "3_2071496265750523904"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2071496270611714494",
+        "created_at": "2026-06-29T07:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071496270611714494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "kamaboko.ngo/blahaj-empathy…",
+              "end": 127,
+              "expanded_url": "https://www.kamaboko.ngo/blahaj-empathy-manual-zh-hant.pdf",
+              "start": 104,
+              "status": 200,
+              "unwound_url": "https://www.kamaboko.ngo/blahaj-empathy-manual-zh-hant.pdf",
+              "url": "https://t.co/PYhZcXTV1E"
+            },
+            {
+              "display_url": "pic.x.com/Eymoo1vhTr",
+              "end": 170,
+              "expanded_url": "https://x.com/Nailaocaijiao/status/2071496270611714494/photo/1",
+              "media_key": "3_2071496265746280448",
+              "start": 147,
+              "url": "https://t.co/Eymoo1vhTr"
+            },
+            {
+              "display_url": "pic.x.com/Eymoo1vhTr",
+              "end": 170,
+              "expanded_url": "https://x.com/Nailaocaijiao/status/2071496270611714494/photo/1",
+              "media_key": "3_2071496265750523904",
+              "start": 147,
+              "url": "https://t.co/Eymoo1vhTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071496270611714494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多年来，BLÅHAJ 一直是跨性别社群的庇护与归属象征。IKEA 说，这是它第一只需要「使用说明书」的玩偶——但不是教你怎么组装，而是教你怎么好好对待把它带回家的人。 \n\n原版是西班牙文，这里把它翻成中文：\nhttps://t.co/PYhZcXTV1E\n（社群中译，非 IKEA 官方版本） https://t.co/Eymoo1vhTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 4250,
+          "like_count": 7574,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false
+      }
+    ]
+  }
+}

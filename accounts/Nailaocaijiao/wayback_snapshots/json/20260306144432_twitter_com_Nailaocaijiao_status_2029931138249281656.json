@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2029931138249281656",
+    "created_at": "2026-03-06T14:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T15:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029931138249281656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "description": "深入性别烦躁的表现及跨性别概念。",
+          "display_url": "genderdysphoria.fyi/zh/",
+          "end": 58,
+          "expanded_url": "http://genderdysphoria.fyi/zh/",
+          "images": [
+            {
+              "height": 566,
+              "url": "https://pbs.twimg.com/news_img/2029111328707620864/9dac4QHf?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2029111328707620864/9dac4QHf?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "性别烦躁指南",
+          "unwound_url": "https://genderdysphoria.fyi/zh/",
+          "url": "https://t.co/d25CgSBe7i"
+        },
+        {
+          "display_url": "mtf.wiki",
+          "end": 109,
+          "expanded_url": "http://mtf.wiki",
+          "start": 86,
+          "status": 200,
+          "title": "MtF.wiki",
+          "unwound_url": "https://mtf.wiki/",
+          "url": "https://t.co/x1Q6mLXBuP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029931138249281656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029785883973763263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 整合一下目前我知道的mtf相关链接：\n1. https://t.co/d25CgSBe7i 性别烦躁指南，建议所有跨性别者和不确定的人观看\n2. https://t.co/x1Q6mLXBuP 一个综述性网站，包括从hrt开证明到srs，ffs，都有讲…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2029931138249281656",
+        "created_at": "2026-03-06T14:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029931138249281656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "description": "深入性别烦躁的表现及跨性别概念。",
+              "display_url": "genderdysphoria.fyi/zh/",
+              "end": 58,
+              "expanded_url": "http://genderdysphoria.fyi/zh/",
+              "images": [
+                {
+                  "height": 566,
+                  "url": "https://pbs.twimg.com/news_img/2029111328707620864/9dac4QHf?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2029111328707620864/9dac4QHf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "性别烦躁指南",
+              "unwound_url": "https://genderdysphoria.fyi/zh/",
+              "url": "https://t.co/d25CgSBe7i"
+            },
+            {
+              "display_url": "mtf.wiki",
+              "end": 109,
+              "expanded_url": "http://mtf.wiki",
+              "start": 86,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.wiki/",
+              "url": "https://t.co/x1Q6mLXBuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029931138249281656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029785883973763263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 整合一下目前我知道的mtf相关链接：\n1. https://t.co/d25CgSBe7i 性别烦躁指南，建议所有跨性别者和不确定的人观看\n2. https://t.co/x1Q6mLXBuP 一个综述性网站，包括从hrt开证明到srs，ffs，都有讲…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029785883973763263",
+        "created_at": "2026-03-06T05:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029785883973763263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "深入性别烦躁的表现及跨性别概念。",
+              "display_url": "genderdysphoria.fyi/zh/",
+              "end": 45,
+              "expanded_url": "http://genderdysphoria.fyi/zh/",
+              "images": [
+                {
+                  "height": 566,
+                  "url": "https://pbs.twimg.com/news_img/2029111328707620864/9dac4QHf?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2029111328707620864/9dac4QHf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "性别烦躁指南",
+              "unwound_url": "https://genderdysphoria.fyi/zh/",
+              "url": "https://t.co/d25CgSBe7i"
+            },
+            {
+              "display_url": "mtf.wiki",
+              "end": 96,
+              "expanded_url": "http://mtf.wiki",
+              "start": 73,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.wiki/",
+              "url": "https://t.co/x1Q6mLXBuP"
+            },
+            {
+              "display_url": "docs.hrt.guide/menu/#part-8-",
+              "end": 155,
+              "expanded_url": "http://docs.hrt.guide/menu/#part-8-",
+              "start": 132,
+              "unwound_url": "http://docs.hrt.guide/menu/#part-8-",
+              "url": "https://t.co/iT23Jqus17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029785883973763263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "genderdysphoria.fyi/zh/",
+                "end": 45,
+                "expanded_url": "http://genderdysphoria.fyi/zh/",
+                "start": 22,
+                "url": "https://t.co/WxSFitArjy"
+              },
+              {
+                "display_url": "mtf.wiki",
+                "end": 96,
+                "expanded_url": "http://mtf.wiki",
+                "start": 73,
+                "url": "https://t.co/7VPxVgqgS8"
+              },
+              {
+                "display_url": "docs.hrt.guide/menu/#part-8-",
+                "end": 155,
+                "expanded_url": "http://docs.hrt.guide/menu/#part-8-",
+                "start": 132,
+                "url": "https://t.co/FKoEXpJOhZ"
+              },
+              {
+                "display_url": "hrt.cafe",
+                "end": 205,
+                "expanded_url": "http://hrt.cafe",
+                "start": 182,
+                "url": "https://t.co/RjLtzkAzuq"
+              },
+              {
+                "display_url": "kamolhospital.com/en/service/MTF",
+                "end": 249,
+                "expanded_url": "http://kamolhospital.com/en/service/MTF",
+                "start": 226,
+                "url": "https://t.co/OGtTWh2ZGJ"
+              },
+              {
+                "display_url": "one-among.us",
+                "end": 297,
+                "expanded_url": "http://one-among.us",
+                "start": 274,
+                "url": "https://t.co/mH2ajq0zx9"
+              }
+            ]
+          },
+          "text": "整合一下目前我知道的mtf相关链接：\n1. https://t.co/WxSFitArjy 性别烦躁指南，建议所有跨性别者和不确定的人观看\n2. https://t.co/7VPxVgqgS8 一个综述性网站，包括从hrt开证明到srs，ffs，都有讲述。\n3. https://t.co/FKoEXpJOhZ%…  一个专讲hrt激素治疗的网站内容详尽。\n4. https://t.co/RjLtzkAzuq\n大家有其他链接也可以贴在下面哦～\n5. https://t.co/OGtTWh2ZGJ… 泰国kamol医院所有的srs手术介绍\n6. https://t.co/mH2ajq0zx9 愿此生没有黑暗。 一个纪念那些逝去的小伙伴的网站。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 11009,
+          "like_count": 168,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "整合一下目前我知道的mtf相关链接：\n1. https://t.co/d25CgSBe7i 性别烦躁指南，建议所有跨性别者和不确定的人观看\n2. https://t.co/x1Q6mLXBuP 一个综述性网站，包括从hrt开证明到srs，ffs，都有讲述。\n3. https://t.co/iT23Jqus17%…  一个专讲hrt激素治疗的网站内容详尽。\n4."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 2953,
+          "like_count": 3982,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 136
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 432,
+          "like_count": 484,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 726
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

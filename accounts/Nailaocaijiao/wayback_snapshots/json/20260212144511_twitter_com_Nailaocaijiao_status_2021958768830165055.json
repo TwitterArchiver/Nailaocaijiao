@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2003471720632713283",
+    "created_at": "2026-02-12T14:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021958768830165055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1858393719080366080",
+          "start": 0,
+          "username": "me6pjHT2Rf29076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021958768830165055",
+    "in_reply_to_user_id": "1858393719080366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021956048068997458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me6pjHT2Rf29076 全香港唯一的公營跨性別相關醫療服務，要先從外面普通科（公立醫院的普通科門診也可以）或精神科醫生取得轉介信才可以排期，不過輪候時間挺長的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2003471720632713283",
+        "created_at": "2026-02-12T14:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021958768830165055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "me6pjHT2Rf29076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021958768830165055",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021956048068997458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me6pjHT2Rf29076 全香港唯一的公營跨性別相關醫療服務，要先從外面普通科（公立醫院的普通科門診也可以）或精神科醫生取得轉介信才可以排期，不過輪候時間挺長的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2003471720632713283",
+        "created_at": "2026-02-12T14:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021956048068997458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909290364328108032",
+              "start": 0,
+              "username": "Nailaocaijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021956048068997458",
+        "in_reply_to_user_id": "1909290364328108032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003471720632713283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nailaocaijiao 性別認同診所\n原來醫院是有這種東西的\n看來下次去複診要好好和醫生聊聊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️｜She/Her｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 2500,
+          "like_count": 3118,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：無\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的，開黃腔的那些，給我滾～～～",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2013151319121416284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 43,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 898
+        },
+        "username": "me6pjHT2Rf29076",
+        "verified": false
+      }
+    ]
+  }
+}

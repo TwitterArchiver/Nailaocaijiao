@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027229210138603520",
+        "3_2027229210193063937",
+        "3_2027229264345800704"
+      ],
+      "media_source_tweet_id": [
+        "2027229342536024398",
+        "2027229342536024398",
+        "2027229342536024398"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027292404672582072",
+    "created_at": "2026-02-27T07:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027292404672582072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799331977205796864",
+          "start": 3,
+          "username": "Xxxxx62778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bJqKBR8mVw",
+          "end": 55,
+          "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+          "media_key": "3_2027229210138603520",
+          "start": 32,
+          "url": "https://t.co/bJqKBR8mVw"
+        },
+        {
+          "display_url": "pic.x.com/bJqKBR8mVw",
+          "end": 55,
+          "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+          "media_key": "3_2027229210193063937",
+          "start": 32,
+          "url": "https://t.co/bJqKBR8mVw"
+        },
+        {
+          "display_url": "pic.x.com/bJqKBR8mVw",
+          "end": 55,
+          "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+          "media_key": "3_2027229264345800704",
+          "start": 32,
+          "url": "https://t.co/bJqKBR8mVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027292404672582072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027229342536024398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxxxx62778: 老板我给你跪下了啊啊啊啊啊啊！ https://t.co/bJqKBR8mVw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2027229210138603520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIqOdSbcAAAR71.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2027229210193063937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIqOdfacAEgrh_.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2027229264345800704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIqRnOboAAi9Ee.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027229210138603520",
+            "3_2027229210193063937",
+            "3_2027229264345800704"
+          ],
+          "media_source_tweet_id": [
+            "2027229342536024398",
+            "2027229342536024398",
+            "2027229342536024398"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027292404672582072",
+        "created_at": "2026-02-27T07:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027292404672582072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799331977205796864",
+              "start": 3,
+              "username": "Xxxxx62778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 55,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229210138603520",
+              "start": 32,
+              "url": "https://t.co/bJqKBR8mVw"
+            },
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 55,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229210193063937",
+              "start": 32,
+              "url": "https://t.co/bJqKBR8mVw"
+            },
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 55,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229264345800704",
+              "start": 32,
+              "url": "https://t.co/bJqKBR8mVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027292404672582072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027229342536024398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxxxx62778: 老板我给你跪下了啊啊啊啊啊啊！ https://t.co/bJqKBR8mVw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027229210138603520",
+            "3_2027229210193063937",
+            "3_2027229264345800704"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027229342536024398",
+        "created_at": "2026-02-27T03:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027229342536024398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229210138603520",
+              "start": 16,
+              "url": "https://t.co/bJqKBR8mVw"
+            },
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229210193063937",
+              "start": 16,
+              "url": "https://t.co/bJqKBR8mVw"
+            },
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229264345800704",
+              "start": 16,
+              "url": "https://t.co/bJqKBR8mVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027229342536024398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 159419,
+          "like_count": 908,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "老板我给你跪下了啊啊啊啊啊啊！ https://t.co/bJqKBR8mVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/Hers｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 2846,
+          "like_count": 3691,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 124
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 33,
+          "like_count": 31935,
+          "listed_count": 3,
+          "media_count": 3677,
+          "tweet_count": 12487
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

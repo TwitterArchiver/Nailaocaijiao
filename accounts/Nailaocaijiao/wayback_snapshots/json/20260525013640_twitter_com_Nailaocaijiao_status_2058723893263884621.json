@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2058383041404588419",
+    "created_at": "2026-05-25T01:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058723893263884621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024565245428322304",
+          "start": 0,
+          "username": "tiger66172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058723893263884621",
+    "in_reply_to_user_id": "2024565245428322304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058607049303597432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiger66172 谢谢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2058383041404588419",
+        "created_at": "2026-05-25T01:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058723893263884621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024565245428322304",
+              "start": 0,
+              "username": "tiger66172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058723893263884621",
+        "in_reply_to_user_id": "2024565245428322304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058607049303597432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiger66172 谢谢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024565245428322304",
+        "conversation_id": "2058383041404588419",
+        "created_at": "2026-05-24T17:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058607049303597432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909290364328108032",
+              "start": 0,
+              "username": "Nailaocaijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058607049303597432",
+        "in_reply_to_user_id": "1909290364328108032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058383041404588419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nailaocaijiao 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 3886,
+          "like_count": 6669,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 215
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T19:22:40.000Z",
+        "description": "舊帳：@Littlecat11100407",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 3,
+                "username": "Littlecat11100407"
+              }
+            ]
+          }
+        },
+        "id": "2024565245428322304",
+        "name": "伊伊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053511742517567488/wwChoacv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 247,
+          "like_count": 3307,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "tiger66172",
+        "verified": false
+      }
+    ]
+  }
+}

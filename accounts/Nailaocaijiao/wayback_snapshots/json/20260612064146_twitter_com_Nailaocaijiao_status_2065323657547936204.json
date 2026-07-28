@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053486342403977216"
+      ],
+      "media_source_tweet_id": [
+        "2053486354420621800"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2065323657547936204",
+    "created_at": "2026-06-12T06:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065323657547936204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochic_Xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AxQoUGaBqA",
+          "end": 69,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2053486354420621800/photo/1",
+          "media_key": "3_2053486342403977216",
+          "start": 46,
+          "url": "https://t.co/AxQoUGaBqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065323657547936204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053486354420621800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochic_Xyn: 我去!打音游效果这么好!\n早知道我早点开始打音游了😓 https://t.co/AxQoUGaBqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2053486342403977216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9y8tYa8AATclC.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053486342403977216"
+          ],
+          "media_source_tweet_id": [
+            "2053486354420621800"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2065323657547936204",
+        "created_at": "2026-06-12T06:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065323657547936204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochic_Xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxQoUGaBqA",
+              "end": 69,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2053486354420621800/photo/1",
+              "media_key": "3_2053486342403977216",
+              "start": 46,
+              "url": "https://t.co/AxQoUGaBqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065323657547936204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053486354420621800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochic_Xyn: 我去!打音游效果这么好!\n早知道我早点开始打音游了😓 https://t.co/AxQoUGaBqA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053486342403977216"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2053486354420621800",
+        "created_at": "2026-05-10T14:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053486354420621800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxQoUGaBqA",
+              "end": 50,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2053486354420621800/photo/1",
+              "media_key": "3_2053486342403977216",
+              "start": 27,
+              "url": "https://t.co/AxQoUGaBqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053486354420621800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 14910,
+          "like_count": 246,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我去!打音游效果这么好!\n早知道我早点开始打音游了😓 https://t.co/AxQoUGaBqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 4021,
+          "like_count": 7075,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 224
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3288,
+          "following_count": 1817,
+          "like_count": 6422,
+          "listed_count": 5,
+          "media_count": 681,
+          "tweet_count": 4771
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

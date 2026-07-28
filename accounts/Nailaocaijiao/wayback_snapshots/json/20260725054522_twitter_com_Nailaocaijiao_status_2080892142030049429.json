@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2080892142030049429",
+    "created_at": "2026-07-25T05:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080892142030049429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuerqwq/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/yuerqwq/status/2080412643660337357",
+          "start": 10,
+          "url": "https://t.co/U155hPEMYr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080892142030049429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080412643660337357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鲨鲨更胖更可爱了！ https://t.co/U155hPEMYr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1914,
+        "media_key": "3_2079960135779418112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2AuTAbAAAPUPR.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2080892142030049429",
+        "created_at": "2026-07-25T05:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080892142030049429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerqwq/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yuerqwq/status/2080412643660337357",
+              "start": 10,
+              "url": "https://t.co/U155hPEMYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080892142030049429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080412643660337357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲨鲨更胖更可爱了！ https://t.co/U155hPEMYr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079960135779418112"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2080412643660337357",
+        "created_at": "2026-07-23T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080412643660337357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnEaqN9HrT",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2080412643660337357/photo/1",
+              "media_key": "3_2079960135779418112",
+              "start": 7,
+              "url": "https://t.co/ZnEaqN9HrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080412643660337357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 23302,
+          "like_count": 491,
+          "quote_count": 3,
+          "reply_count": 66,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "圆圆的鲨鲨！ https://t.co/ZnEaqN9HrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 4424,
+          "like_count": 8011,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "nagis1a"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2929,
+          "following_count": 1495,
+          "like_count": 16838,
+          "listed_count": 3,
+          "media_count": 1064,
+          "tweet_count": 4661
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

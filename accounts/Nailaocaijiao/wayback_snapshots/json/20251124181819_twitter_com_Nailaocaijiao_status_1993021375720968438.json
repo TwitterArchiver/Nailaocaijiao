@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991740288742879235"
+      ],
+      "media_source_tweet_id": [
+        "1991740296066187296"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1993021375720968438",
+    "created_at": "2025-11-24T18:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T19:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993021375720968438"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男娘"
+        },
+        {
+          "end": 34,
+          "start": 32,
+          "tag": "m"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "无缝丝袜"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "反差"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "母狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1784903270273871872",
+          "start": 3,
+          "username": "77xmmm_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AiwyMCigul",
+          "end": 72,
+          "expanded_url": "https://x.com/77xmmm_/status/1991740296066187296/photo/1",
+          "media_key": "3_1991740288742879235",
+          "start": 49,
+          "url": "https://t.co/AiwyMCigul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993021375720968438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991740296066187296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @77xmmm_: 都不找我过🚪 搞暗恋是吧？\n\n#男娘 #m #无缝丝袜 #反差 #母狗 https://t.co/AiwyMCigul"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993021375720968438].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993021375720968438",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993021375720968438"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1991740288742879235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QVPWtacAMz2z2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991740288742879235"
+          ]
+        },
+        "author_id": "1784903270273871872",
+        "conversation_id": "1991740296066187296",
+        "created_at": "2025-11-21T05:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991740296066187296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 21,
+              "start": 19,
+              "tag": "m"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "无缝丝袜"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "反差"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiwyMCigul",
+              "end": 59,
+              "expanded_url": "https://x.com/77xmmm_/status/1991740296066187296/photo/1",
+              "media_key": "3_1991740288742879235",
+              "start": 36,
+              "url": "https://t.co/AiwyMCigul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991740296066187296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 185985,
+          "like_count": 1867,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "reply_settings": "following",
+        "text": "都不找我过🚪 搞暗恋是吧？\n\n#男娘 #m #无缝丝袜 #反差 #母狗 https://t.co/AiwyMCigul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 67,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T11:11:25.000Z",
+        "description": "男娘📍常驻上海 线下🚪99 私信只回口令 其他已读不回｜176/62kg｜属性极其涩情.主营线下｜🚪口令解锁私信💕",
+        "id": "1784903270273871872",
+        "location": "shanghai",
+        "name": "是柒柒呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946156532154130432/OuAEZLoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48395,
+          "following_count": 41,
+          "like_count": 158,
+          "listed_count": 211,
+          "media_count": 53,
+          "tweet_count": 268
+        },
+        "username": "77xmmm_",
+        "verified": false
+      }
+    ]
+  }
+}

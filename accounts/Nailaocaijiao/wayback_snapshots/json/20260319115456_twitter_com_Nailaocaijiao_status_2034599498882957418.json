@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034195012527808512"
+      ],
+      "media_source_tweet_id": [
+        "2034283695683801147"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2034599498882957418",
+    "created_at": "2026-03-19T11:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034599498882957418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRDQRDlypb",
+          "end": 66,
+          "expanded_url": "https://x.com/youy1qwq/status/2034283695683801147/photo/1",
+          "media_key": "3_2034195012527808512",
+          "start": 43,
+          "url": "https://t.co/TRDQRDlypb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034599498882957418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034283695683801147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 外教带中国学生的工资算工伤了，我们外教每天都哀求我们说话 https://t.co/TRDQRDlypb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034195012527808512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrplhWXYAAyDue.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034195012527808512"
+          ],
+          "media_source_tweet_id": [
+            "2034283695683801147"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2034599498882957418",
+        "created_at": "2026-03-19T11:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034599498882957418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRDQRDlypb",
+              "end": 66,
+              "expanded_url": "https://x.com/youy1qwq/status/2034283695683801147/photo/1",
+              "media_key": "3_2034195012527808512",
+              "start": 43,
+              "url": "https://t.co/TRDQRDlypb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034599498882957418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034283695683801147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 外教带中国学生的工资算工伤了，我们外教每天都哀求我们说话 https://t.co/TRDQRDlypb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034195012527808512"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2034283695683801147",
+        "created_at": "2026-03-18T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034283695683801147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRDQRDlypb",
+              "end": 52,
+              "expanded_url": "https://x.com/youy1qwq/status/2034283695683801147/photo/1",
+              "media_key": "3_2034195012527808512",
+              "start": 29,
+              "url": "https://t.co/TRDQRDlypb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034283695683801147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 639,
+          "impression_count": 525175,
+          "like_count": 6135,
+          "quote_count": 72,
+          "reply_count": 165,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "外教带中国学生的工资算工伤了，我们外教每天都哀求我们说话 https://t.co/TRDQRDlypb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 3223,
+          "like_count": 4556,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 152
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7557,
+          "following_count": 1326,
+          "like_count": 3154,
+          "listed_count": 10,
+          "media_count": 934,
+          "tweet_count": 1346
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

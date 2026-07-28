@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992428633764540416"
+      ],
+      "media_source_tweet_id": [
+        "1992428651728748586"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1993022147145744502",
+    "created_at": "2025-11-24T18:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T19:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993022147145744502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1903167131619037187",
+          "start": 3,
+          "username": "Shayuyuyuyu0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z14ZTMSdJE",
+          "end": 58,
+          "expanded_url": "https://x.com/Shayuyuyuyu0306/status/1992428651728748586/photo/1",
+          "media_key": "3_1992428633764540416",
+          "start": 35,
+          "url": "https://t.co/Z14ZTMSdJE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993022147145744502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992428651728748586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shayuyuyuyu0306: 这简直是世界上最精密的仪器 https://t.co/Z14ZTMSdJE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992428633764540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aHSTvaMAAlfO2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992428633764540416"
+          ],
+          "media_source_tweet_id": [
+            "1992428651728748586"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1993022147145744502",
+        "created_at": "2025-11-24T18:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T19:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993022147145744502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1903167131619037187",
+              "start": 3,
+              "username": "Shayuyuyuyu0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z14ZTMSdJE",
+              "end": 58,
+              "expanded_url": "https://x.com/Shayuyuyuyu0306/status/1992428651728748586/photo/1",
+              "media_key": "3_1992428633764540416",
+              "start": 35,
+              "url": "https://t.co/Z14ZTMSdJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993022147145744502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992428651728748586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shayuyuyuyu0306: 这简直是世界上最精密的仪器 https://t.co/Z14ZTMSdJE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992428633764540416"
+          ]
+        },
+        "author_id": "1903167131619037187",
+        "conversation_id": "1992428651728748586",
+        "created_at": "2025-11-23T03:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992428651728748586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z14ZTMSdJE",
+              "end": 37,
+              "expanded_url": "https://x.com/Shayuyuyuyu0306/status/1992428651728748586/photo/1",
+              "media_key": "3_1992428633764540416",
+              "start": 14,
+              "url": "https://t.co/Z14ZTMSdJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992428651728748586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 355586,
+          "like_count": 1570,
+          "quote_count": 7,
+          "reply_count": 126,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "这简直是世界上最精密的仪器 https://t.co/Z14ZTMSdJE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 68,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T19:30:17.000Z",
+        "description": "乌！呀！咦！哈！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=XeHg7qdr",
+                "start": 0,
+                "url": "https://t.co/bHwFroKp7C"
+              }
+            ]
+          }
+        },
+        "id": "1903167131619037187",
+        "name": "超级无敌的乌萨奇",
+        "pinned_tweet_id": "1969972668159132077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903829769336328192/Q2LMFX8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7459,
+          "following_count": 378,
+          "like_count": 6669,
+          "listed_count": 18,
+          "media_count": 261,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/bHwFroKp7C",
+        "username": "Shayuyuyuyu0306",
+        "verified": false
+      }
+    ]
+  }
+}

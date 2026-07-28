@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994714556166541312"
+      ],
+      "media_source_tweet_id": [
+        "1996576472249561576"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1996782557921530202",
+    "created_at": "2025-12-05T03:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996782557921530202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2784719126",
+          "start": 3,
+          "username": "cutestscats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8FOrgQcnx",
+          "end": 40,
+          "expanded_url": "https://x.com/cutestscats/status/1996576472249561576/photo/1",
+          "media_key": "3_1994714556166541312",
+          "start": 17,
+          "url": "https://t.co/T8FOrgQcnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996782557921530202",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 305
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996576472249561576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutestscats: https://t.co/T8FOrgQcnx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_1994714556166541312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66mUgSbkAApRgv.jpg",
+        "width": 459
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994714556166541312"
+          ],
+          "media_source_tweet_id": [
+            "1996576472249561576"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1996782557921530202",
+        "created_at": "2025-12-05T03:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996782557921530202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2784719126",
+              "start": 3,
+              "username": "cutestscats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8FOrgQcnx",
+              "end": 40,
+              "expanded_url": "https://x.com/cutestscats/status/1996576472249561576/photo/1",
+              "media_key": "3_1994714556166541312",
+              "start": 17,
+              "url": "https://t.co/T8FOrgQcnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996782557921530202",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996576472249561576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutestscats: https://t.co/T8FOrgQcnx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994714556166541312"
+          ]
+        },
+        "author_id": "2784719126",
+        "conversation_id": "1996576472249561576",
+        "created_at": "2025-12-04T13:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996576472249561576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8FOrgQcnx",
+              "end": 23,
+              "expanded_url": "https://x.com/cutestscats/status/1996576472249561576/photo/1",
+              "media_key": "3_1994714556166541312",
+              "start": 0,
+              "url": "https://t.co/T8FOrgQcnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996576472249561576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 26679,
+          "like_count": 2498,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T8FOrgQcnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "无证含糖MTF",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 141,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-01T21:24:44.000Z",
+        "description": "😺🐈  | dm for credit or removal.\n\nIf you enjoy our content, consider subscribing for just $2! 💕😻",
+        "id": "2784719126",
+        "name": "cutest cats",
+        "pinned_tweet_id": "1965619993313509468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703068667808780288/F-ujycv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151239,
+          "following_count": 49910,
+          "like_count": 22608,
+          "listed_count": 454,
+          "media_count": 44315,
+          "tweet_count": 64986
+        },
+        "username": "cutestscats",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993161414933159936"
+      ],
+      "media_source_tweet_id": [
+        "1993161422235415026"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1993594163036930461",
+    "created_at": "2025-11-26T08:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993594163036930461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622346900824522752",
+          "start": 3,
+          "username": "Miatta_Leon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZEL76um91r",
+          "end": 57,
+          "expanded_url": "https://x.com/Miatta_Leon/status/1993161422235415026/photo/1",
+          "media_key": "3_1993161414933159936",
+          "start": 34,
+          "url": "https://t.co/ZEL76um91r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993594163036930461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993161422235415026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miatta_Leon: 你不要以為我看不出你在說哪個日軍 https://t.co/ZEL76um91r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1977,
+        "media_key": "3_1993161414933159936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6khvyUbIAAGYx8.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993161414933159936"
+          ],
+          "media_source_tweet_id": [
+            "1993161422235415026"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1993594163036930461",
+        "created_at": "2025-11-26T08:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993594163036930461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622346900824522752",
+              "start": 3,
+              "username": "Miatta_Leon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEL76um91r",
+              "end": 57,
+              "expanded_url": "https://x.com/Miatta_Leon/status/1993161422235415026/photo/1",
+              "media_key": "3_1993161414933159936",
+              "start": 34,
+              "url": "https://t.co/ZEL76um91r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993594163036930461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993161422235415026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miatta_Leon: 你不要以為我看不出你在說哪個日軍 https://t.co/ZEL76um91r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993161414933159936"
+          ]
+        },
+        "author_id": "1622346900824522752",
+        "conversation_id": "1993161422235415026",
+        "created_at": "2025-11-25T03:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993161422235415026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEL76um91r",
+              "end": 40,
+              "expanded_url": "https://x.com/Miatta_Leon/status/1993161422235415026/photo/1",
+              "media_key": "3_1993161414933159936",
+              "start": 17,
+              "url": "https://t.co/ZEL76um91r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993161422235415026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 237919,
+          "like_count": 2351,
+          "quote_count": 17,
+          "reply_count": 74,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "你不要以為我看不出你在說哪個日軍 https://t.co/ZEL76um91r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "无证含糖MTF",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 107,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T21:30:30.000Z",
+        "description": "02年MtF-X/筹备hrt中，祝自己come out顺利/留学香港/INFP-T兼谱系障碍兼轻度焦虑性抑郁，负能量警告/不键政，不发黄",
+        "id": "1622346900824522752",
+        "location": "香港",
+        "name": "MiattaLeon🌹🏳️‍⚧️🌳🌺🌊",
+        "pinned_tweet_id": "1666442104552275969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625844243708403713/DHBDCWDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 4799,
+          "like_count": 248385,
+          "listed_count": 15,
+          "media_count": 620,
+          "tweet_count": 39647
+        },
+        "username": "Miatta_Leon",
+        "verified": false
+      }
+    ]
+  }
+}

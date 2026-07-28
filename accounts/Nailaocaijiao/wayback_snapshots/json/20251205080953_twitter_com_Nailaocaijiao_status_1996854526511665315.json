@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996546515301732353"
+      ],
+      "media_source_tweet_id": [
+        "1996550050705531104"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1996854526511665315",
+    "created_at": "2025-12-05T08:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T09:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996854526511665315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1555919425161039872",
+          "start": 3,
+          "username": "YUZU_YUZU_0222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uWDSKZuU6",
+          "end": 66,
+          "expanded_url": "https://x.com/YUZU_YUZU_0222/status/1996550050705531104/photo/1",
+          "media_key": "3_1996546515301732353",
+          "start": 43,
+          "url": "https://t.co/8uWDSKZuU6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996854526511665315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996550050705531104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YUZU_YUZU_0222: ビーーー！！😺\\(*&gt;▽&lt;*)/ https://t.co/8uWDSKZuU6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1996546515301732353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Uoej4akAECPGP.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996546515301732353"
+          ],
+          "media_source_tweet_id": [
+            "1996550050705531104"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1996854526511665315",
+        "created_at": "2025-12-05T08:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T09:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996854526511665315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1555919425161039872",
+              "start": 3,
+              "username": "YUZU_YUZU_0222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uWDSKZuU6",
+              "end": 66,
+              "expanded_url": "https://x.com/YUZU_YUZU_0222/status/1996550050705531104/photo/1",
+              "media_key": "3_1996546515301732353",
+              "start": 43,
+              "url": "https://t.co/8uWDSKZuU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996854526511665315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996550050705531104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YUZU_YUZU_0222: ビーーー！！😺\\(*&gt;▽&lt;*)/ https://t.co/8uWDSKZuU6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996546515301732353"
+          ]
+        },
+        "author_id": "1555919425161039872",
+        "conversation_id": "1996550050705531104",
+        "created_at": "2025-12-04T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996550050705531104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uWDSKZuU6",
+              "end": 46,
+              "expanded_url": "https://x.com/YUZU_YUZU_0222/status/1996550050705531104/photo/1",
+              "media_key": "3_1996546515301732353",
+              "start": 23,
+              "url": "https://t.co/8uWDSKZuU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996550050705531104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4035,
+          "like_count": 440,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "ビーーー！！😺\\(*&gt;▽&lt;*)/ https://t.co/8uWDSKZuU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 171,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T14:11:37.000Z",
+        "description": "AIイラストで遊んでいます\n投稿してるイラストはすべてAIイラストになります\nたま～にレタッチします🎨\n\n無断転載、有償のご依頼などはお断りしています❌\n\nPCやスマホで個人使用はOKです(*^_^*)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuzuyuzu0222",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuzuyuzu0222",
+                "start": 0,
+                "url": "https://t.co/wVPPsduns2"
+              }
+            ]
+          }
+        },
+        "id": "1555919425161039872",
+        "name": "ゆず",
+        "pinned_tweet_id": "1996187667042578458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746766820038873088/fkhzUhwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14839,
+          "following_count": 5118,
+          "like_count": 136583,
+          "listed_count": 119,
+          "media_count": 7302,
+          "tweet_count": 48434
+        },
+        "url": "https://t.co/wVPPsduns2",
+        "username": "YUZU_YUZU_0222",
+        "verified": true
+      }
+    ]
+  }
+}

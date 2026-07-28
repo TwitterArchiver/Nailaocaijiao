@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003851967903543296"
+      ],
+      "media_source_tweet_id": [
+        "2003851970160083262"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2004006042372591802",
+    "created_at": "2025-12-25T01:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T02:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004006042372591802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1687610799840444417",
+          "start": 3,
+          "username": "hanamintsukimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CGD2EUVrI9",
+          "end": 55,
+          "expanded_url": "https://x.com/hanamintsukimin/status/2003851970160083262/photo/1",
+          "media_key": "3_2003851967903543296",
+          "start": 32,
+          "url": "https://t.co/CGD2EUVrI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004006042372591802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 433
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003851970160083262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanamintsukimin: じんぐるべるだもん🔔 https://t.co/CGD2EUVrI9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2003851967903543296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88cv3lbsAA8uKd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003851967903543296"
+          ],
+          "media_source_tweet_id": [
+            "2003851970160083262"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2004006042372591802",
+        "created_at": "2025-12-25T01:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T02:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004006042372591802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1687610799840444417",
+              "start": 3,
+              "username": "hanamintsukimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGD2EUVrI9",
+              "end": 55,
+              "expanded_url": "https://x.com/hanamintsukimin/status/2003851970160083262/photo/1",
+              "media_key": "3_2003851967903543296",
+              "start": 32,
+              "url": "https://t.co/CGD2EUVrI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004006042372591802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 433
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003851970160083262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanamintsukimin: じんぐるべるだもん🔔 https://t.co/CGD2EUVrI9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003851967903543296"
+          ]
+        },
+        "author_id": "1687610799840444417",
+        "conversation_id": "2003851970160083262",
+        "created_at": "2025-12-24T15:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003851970160083262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGD2EUVrI9",
+              "end": 34,
+              "expanded_url": "https://x.com/hanamintsukimin/status/2003851970160083262/photo/1",
+              "media_key": "3_2003851967903543296",
+              "start": 11,
+              "url": "https://t.co/CGD2EUVrI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003851970160083262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 21175,
+          "like_count": 2317,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 433
+        },
+        "reply_settings": "everyone",
+        "text": "じんぐるべるだもん🔔 https://t.co/CGD2EUVrI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS｜162cm｜54kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1169,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T23:45:55.000Z",
+        "description": "シナモロールが大好きでイラスト描いてます🎨\nI love Cinnamoroll and I draw illustrations of it 🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hanamintsukimi…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hanamintsukimin?igsh=Nzd2b2Iwa2trc2lh",
+                "start": 0,
+                "url": "https://t.co/572rCYAPSr"
+              }
+            ]
+          }
+        },
+        "id": "1687610799840444417",
+        "name": "まったけ",
+        "pinned_tweet_id": "1990408250907410709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003671477846188033/GEJDLqjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11640,
+          "following_count": 166,
+          "like_count": 3575,
+          "listed_count": 34,
+          "media_count": 407,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/572rCYAPSr",
+        "username": "hanamintsukimin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000335477866659841"
+      ],
+      "media_source_tweet_id": [
+        "2000335484082704587"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2000860324933853305",
+    "created_at": "2025-12-16T09:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000860324933853305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1523192114548383744",
+          "start": 3,
+          "username": "mei_situation"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6uk5AiHNUe",
+          "end": 42,
+          "expanded_url": "https://x.com/mei_situation/status/2000335484082704587/photo/1",
+          "media_key": "3_2000335477866659841",
+          "start": 19,
+          "url": "https://t.co/6uk5AiHNUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000860324933853305",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3990
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000335484082704587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mei_situation: https://t.co/6uk5AiHNUe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2000335477866659841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8KehNXagAEKD-l.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000335477866659841"
+          ],
+          "media_source_tweet_id": [
+            "2000335484082704587"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2000860324933853305",
+        "created_at": "2025-12-16T09:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000860324933853305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1523192114548383744",
+              "start": 3,
+              "username": "mei_situation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uk5AiHNUe",
+              "end": 42,
+              "expanded_url": "https://x.com/mei_situation/status/2000335484082704587/photo/1",
+              "media_key": "3_2000335477866659841",
+              "start": 19,
+              "url": "https://t.co/6uk5AiHNUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000860324933853305",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3990
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000335484082704587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mei_situation: https://t.co/6uk5AiHNUe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000335477866659841"
+          ]
+        },
+        "author_id": "1523192114548383744",
+        "conversation_id": "2000335484082704587",
+        "created_at": "2025-12-14T22:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T23:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000335484082704587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uk5AiHNUe",
+              "end": 23,
+              "expanded_url": "https://x.com/mei_situation/status/2000335484082704587/photo/1",
+              "media_key": "3_2000335477866659841",
+              "start": 0,
+              "url": "https://t.co/6uk5AiHNUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000335484082704587",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1800,
+          "impression_count": 389540,
+          "like_count": 24955,
+          "quote_count": 169,
+          "reply_count": 108,
+          "retweet_count": 3990
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6uk5AiHNUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 567,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T06:44:47.000Z",
+        "description": "永遠に笑える画像を募集しています✉️",
+        "id": "1523192114548383744",
+        "location": "採用→👍",
+        "name": "永遠に笑える画像",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896771879232552960/4qla9pDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105310,
+          "following_count": 11,
+          "like_count": 3198,
+          "listed_count": 229,
+          "media_count": 1045,
+          "tweet_count": 1140
+        },
+        "username": "mei_situation",
+        "verified": false
+      }
+    ]
+  }
+}

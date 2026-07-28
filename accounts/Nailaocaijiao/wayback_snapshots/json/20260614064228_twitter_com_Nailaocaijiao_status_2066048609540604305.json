@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066048605417603072"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2065766855340667198",
+    "created_at": "2026-06-14T06:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066048609540604305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "313674061",
+          "start": 0,
+          "username": "Waitforzhy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iY2hjp2Hti",
+          "end": 42,
+          "expanded_url": "https://x.com/Nailaocaijiao/status/2066048609540604305/photo/1",
+          "media_key": "3_2066048605417603072",
+          "start": 19,
+          "url": "https://t.co/iY2hjp2Hti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066048609540604305",
+    "in_reply_to_user_id": "313674061",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066009018318086261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Waitforzhy 目前刚好B杯 https://t.co/iY2hjp2Hti"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066048605417603072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwUQp6bgAABgSj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066048605417603072"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2065766855340667198",
+        "created_at": "2026-06-14T06:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066048609540604305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "313674061",
+              "start": 0,
+              "username": "Waitforzhy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iY2hjp2Hti",
+              "end": 42,
+              "expanded_url": "https://x.com/Nailaocaijiao/status/2066048609540604305/photo/1",
+              "media_key": "3_2066048605417603072",
+              "start": 19,
+              "url": "https://t.co/iY2hjp2Hti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066048609540604305",
+        "in_reply_to_user_id": "313674061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066009018318086261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Waitforzhy 目前刚好B杯 https://t.co/iY2hjp2Hti"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "313674061",
+        "conversation_id": "2065766855340667198",
+        "created_at": "2026-06-14T04:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066009018318086261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909290364328108032",
+              "start": 0,
+              "username": "Nailaocaijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066009018318086261",
+        "in_reply_to_user_id": "1909290364328108032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065766855340667198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nailaocaijiao 200天长奶子了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 4052,
+          "like_count": 7135,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 230
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-09T01:26:27.000Z",
+        "description": "",
+        "id": "313674061",
+        "name": "Wait for",
+        "pinned_tweet_id": "2058110497782972678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062022512511479808/M_kSbU1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Waitforzhy",
+        "verified": false
+      }
+    ]
+  }
+}

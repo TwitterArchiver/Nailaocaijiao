@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022681184174563328"
+      ],
+      "media_source_tweet_id": [
+        "2022681380044296385"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2022687720645243388",
+    "created_at": "2026-02-14T15:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022687720645243388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1485662446220201994",
+          "start": 3,
+          "username": "koinoesutoron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rsbH7HZnuK",
+          "end": 139,
+          "expanded_url": "https://x.com/koinoesutoron/status/2022681380044296385/photo/1",
+          "media_key": "3_2022681184174563328",
+          "start": 116,
+          "url": "https://t.co/rsbH7HZnuK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022687720645243388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022681380044296385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koinoesutoron: 2月14日，70个反同系贴吧被封。\n评价：这次下手真狠，比如说“黑同”这个吧也就十几个关注，这种反同小吧都没了，而且反同分子基本上是建立一个吧就被封一个吧，有的反同新吧在建立几小时后就被封了。 https://t.co/rsbH7HZnuK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2022681184174563328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIB0gSXYAAT-Sr.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022681184174563328"
+          ],
+          "media_source_tweet_id": [
+            "2022681380044296385"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2022687720645243388",
+        "created_at": "2026-02-14T15:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022687720645243388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1485662446220201994",
+              "start": 3,
+              "username": "koinoesutoron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsbH7HZnuK",
+              "end": 139,
+              "expanded_url": "https://x.com/koinoesutoron/status/2022681380044296385/photo/1",
+              "media_key": "3_2022681184174563328",
+              "start": 116,
+              "url": "https://t.co/rsbH7HZnuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022687720645243388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022681380044296385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koinoesutoron: 2月14日，70个反同系贴吧被封。\n评价：这次下手真狠，比如说“黑同”这个吧也就十几个关注，这种反同小吧都没了，而且反同分子基本上是建立一个吧就被封一个吧，有的反同新吧在建立几小时后就被封了。 https://t.co/rsbH7HZnuK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022681184174563328"
+          ]
+        },
+        "author_id": "1485662446220201994",
+        "conversation_id": "2022681380044296385",
+        "created_at": "2026-02-14T14:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022681380044296385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsbH7HZnuK",
+              "end": 120,
+              "expanded_url": "https://x.com/koinoesutoron/status/2022681380044296385/photo/1",
+              "media_key": "3_2022681184174563328",
+              "start": 97,
+              "url": "https://t.co/rsbH7HZnuK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "28b9063fdce43645"
+        },
+        "id": "2022681380044296385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2月14日，70个反同系贴吧被封。\n评价：这次下手真狠，比如说“黑同”这个吧也就十几个关注，这种反同小吧都没了，而且反同分子基本上是建立一个吧就被封一个吧，有的反同新吧在建立几小时后就被封了。 https://t.co/rsbH7HZnuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️｜She/Her｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 2530,
+          "like_count": 3212,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 116
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T17:15:21.000Z",
+        "description": "WikipediaのLTAです。\nLGBT｜ポスドク｜自己嫌悪｜精神疾患｜トランスジェンダー｜LTA｜Wikipedia｜など",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ja.wikipedia.org/wiki/LTA:ISECH…",
+                "end": 23,
+                "expanded_url": "http://ja.wikipedia.org/wiki/LTA:ISECHIKA",
+                "start": 0,
+                "url": "https://t.co/Km1SZucwOo"
+              }
+            ]
+          }
+        },
+        "id": "1485662446220201994",
+        "location": "東京 千代田区",
+        "name": "伊瀬知夏🏳️‍⚧️",
+        "pinned_tweet_id": "1558859092545769472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984410811058831363/2uZasvuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 44,
+          "like_count": 77,
+          "listed_count": 5,
+          "media_count": 2587,
+          "tweet_count": 8080
+        },
+        "url": "https://t.co/Km1SZucwOo",
+        "username": "koinoesutoron",
+        "verified": false
+      }
+    ]
+  }
+}

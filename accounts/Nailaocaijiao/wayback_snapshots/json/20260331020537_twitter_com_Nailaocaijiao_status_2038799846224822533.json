@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038652099085709312",
+        "3_2038652099081428992"
+      ],
+      "media_source_tweet_id": [
+        "2038652115074383961",
+        "2038652115074383961"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038799846224822533",
+    "created_at": "2026-03-31T02:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038799846224822533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773379708635467776",
+          "start": 3,
+          "username": "HerbalSnow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z3298CsJN4",
+          "end": 78,
+          "expanded_url": "https://x.com/HerbalSnow/status/2038652115074383961/photo/1",
+          "media_key": "3_2038652099085709312",
+          "start": 55,
+          "url": "https://t.co/z3298CsJN4"
+        },
+        {
+          "display_url": "pic.x.com/z3298CsJN4",
+          "end": 78,
+          "expanded_url": "https://x.com/HerbalSnow/status/2038652115074383961/photo/1",
+          "media_key": "3_2038652099081428992",
+          "start": 55,
+          "url": "https://t.co/z3298CsJN4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038799846224822533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038652115074383961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HerbalSnow: 现身日，唯一的存在感却只能是发条推\n大家现身日快乐，没有条件不要贸然“献身” https://t.co/z3298CsJN4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2038652099085709312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEq_SGqbsAAQMZr.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2038652099081428992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEq_SGpaYAA6Xgg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038652099085709312",
+            "3_2038652099081428992"
+          ],
+          "media_source_tweet_id": [
+            "2038652115074383961",
+            "2038652115074383961"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038799846224822533",
+        "created_at": "2026-03-31T02:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038799846224822533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1773379708635467776",
+              "start": 3,
+              "username": "HerbalSnow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3298CsJN4",
+              "end": 78,
+              "expanded_url": "https://x.com/HerbalSnow/status/2038652115074383961/photo/1",
+              "media_key": "3_2038652099085709312",
+              "start": 55,
+              "url": "https://t.co/z3298CsJN4"
+            },
+            {
+              "display_url": "pic.x.com/z3298CsJN4",
+              "end": 78,
+              "expanded_url": "https://x.com/HerbalSnow/status/2038652115074383961/photo/1",
+              "media_key": "3_2038652099081428992",
+              "start": 55,
+              "url": "https://t.co/z3298CsJN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038799846224822533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038652115074383961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HerbalSnow: 现身日，唯一的存在感却只能是发条推\n大家现身日快乐，没有条件不要贸然“献身” https://t.co/z3298CsJN4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038652099085709312",
+            "3_2038652099081428992"
+          ]
+        },
+        "author_id": "1773379708635467776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038652115074383961",
+        "created_at": "2026-03-30T16:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038652115074383961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3298CsJN4",
+              "end": 62,
+              "expanded_url": "https://x.com/HerbalSnow/status/2038652115074383961/photo/1",
+              "media_key": "3_2038652099085709312",
+              "start": 39,
+              "url": "https://t.co/z3298CsJN4"
+            },
+            {
+              "display_url": "pic.x.com/z3298CsJN4",
+              "end": 62,
+              "expanded_url": "https://x.com/HerbalSnow/status/2038652115074383961/photo/1",
+              "media_key": "3_2038652099081428992",
+              "start": 39,
+              "url": "https://t.co/z3298CsJN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038652115074383961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1742,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "现身日，唯一的存在感却只能是发条推\n大家现身日快乐，没有条件不要贸然“献身” https://t.co/z3298CsJN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 3370,
+          "like_count": 4922,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 168
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T16:01:13.000Z",
+        "description": "你好哦～叫咱小铃/铃酱就好呢，21岁mtf，无证含糖🍥xyn，hrt25.3.16，切蛋25.11.20，临床医学大三在读，喜欢铁路、车万、术力口，tk圈小ee，173cm，58kg，欢迎来戳咱，交友可私聊加q，咱想要成为有趣的人，想要被喜欢（也好想被tickle……）希望每个人都能活成自己想要的样子哦～",
+        "id": "1773379708635467776",
+        "location": "国铁济南局管内（时不时跨局）",
+        "name": "HerbalSnow小铃酱🍥",
+        "pinned_tweet_id": "1895889427693760630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773406031382745089/35YvhfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 3092,
+          "like_count": 17921,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1096
+        },
+        "username": "HerbalSnow",
+        "verified": false
+      }
+    ]
+  }
+}

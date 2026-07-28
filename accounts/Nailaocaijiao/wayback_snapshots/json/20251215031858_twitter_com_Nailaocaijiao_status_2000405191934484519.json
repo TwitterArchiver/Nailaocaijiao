@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2000405191934484519",
+    "created_at": "2025-12-15T03:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T04:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000405191934484519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yepa41/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/yepa41/status/2000047985582063844",
+          "start": 14,
+          "url": "https://t.co/NWbIxdqbBg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000405191934484519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000047985582063844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "瘟疫公司玩家belike： https://t.co/NWbIxdqbBg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2000047973846454272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GZCRbbkAAstQd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2000405191934484519",
+        "created_at": "2025-12-15T03:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000405191934484519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yepa41/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yepa41/status/2000047985582063844",
+              "start": 14,
+              "url": "https://t.co/NWbIxdqbBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000405191934484519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000047985582063844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "瘟疫公司玩家belike： https://t.co/NWbIxdqbBg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000047973846454272"
+          ]
+        },
+        "author_id": "1926313840557355008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000047985582063844",
+        "created_at": "2025-12-14T03:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000047985582063844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ViMR0fGo4",
+              "end": 23,
+              "expanded_url": "https://x.com/yepa41/status/2000047985582063844/photo/1",
+              "media_key": "3_2000047973846454272",
+              "start": 0,
+              "url": "https://t.co/0ViMR0fGo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000047985582063844",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 159658,
+          "like_count": 3392,
+          "quote_count": 12,
+          "reply_count": 57,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0ViMR0fGo4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 406,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "你打算从什么时候开始真正的活着？",
+        "id": "1926313840557355008",
+        "location": "百味轩",
+        "name": "斯德哥尔摩第二吉他手",
+        "pinned_tweet_id": "1990480589112422835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998174458197245952/_6TPH7JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 629,
+          "like_count": 59784,
+          "listed_count": 4,
+          "media_count": 549,
+          "tweet_count": 3620
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

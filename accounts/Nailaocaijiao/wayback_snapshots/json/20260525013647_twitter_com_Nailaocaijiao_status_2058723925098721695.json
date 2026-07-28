@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2058383041404588419",
+    "created_at": "2026-05-25T01:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058723925098721695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980483857863655424",
+          "start": 0,
+          "username": "KamisatoSeele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058723925098721695",
+    "in_reply_to_user_id": "1980483857863655424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058698866845991404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamisatoSeele 谢谢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2058383041404588419",
+        "created_at": "2026-05-25T01:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058723925098721695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980483857863655424",
+              "start": 0,
+              "username": "KamisatoSeele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058723925098721695",
+        "in_reply_to_user_id": "1980483857863655424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058698866845991404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamisatoSeele 谢谢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980483857863655424",
+        "conversation_id": "2058383041404588419",
+        "created_at": "2026-05-24T23:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058698866845991404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909290364328108032",
+              "start": 0,
+              "username": "Nailaocaijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058698866845991404",
+        "in_reply_to_user_id": "1909290364328108032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058383041404588419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nailaocaijiao 恭喜喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 3886,
+          "like_count": 6669,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 216
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:58:50.000Z",
+        "description": "无证 | MtF | \n早已出柜喵 | 猫娘|\nmtf，mtx树洞喵（不随时在线看到会回喵）",
+        "id": "1980483857863655424",
+        "name": "Shizuku Kamisato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056301748499935232/KGuyqf8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 110,
+          "like_count": 682,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 421
+        },
+        "username": "KamisatoSeele",
+        "verified": false
+      }
+    ]
+  }
+}

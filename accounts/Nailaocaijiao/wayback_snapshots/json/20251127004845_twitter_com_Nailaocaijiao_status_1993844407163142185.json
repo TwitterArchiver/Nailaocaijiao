@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993677174436454400"
+      ],
+      "media_source_tweet_id": [
+        "1993677195370479655"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1993844407163142185",
+    "created_at": "2025-11-27T00:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T01:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993844407163142185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634940148147441667",
+          "start": 3,
+          "username": "emiya436900"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/05xneO89vH",
+          "end": 40,
+          "expanded_url": "https://x.com/emiya436900/status/1993677195370479655/photo/1",
+          "media_key": "3_1993677174436454400",
+          "start": 17,
+          "url": "https://t.co/05xneO89vH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993844407163142185",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993677195370479655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emiya436900: https://t.co/05xneO89vH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1993677174436454400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6r208MW4AAVXZs.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993677174436454400"
+          ],
+          "media_source_tweet_id": [
+            "1993677195370479655"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1993844407163142185",
+        "created_at": "2025-11-27T00:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T01:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993844407163142185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634940148147441667",
+              "start": 3,
+              "username": "emiya436900"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/05xneO89vH",
+              "end": 40,
+              "expanded_url": "https://x.com/emiya436900/status/1993677195370479655/photo/1",
+              "media_key": "3_1993677174436454400",
+              "start": 17,
+              "url": "https://t.co/05xneO89vH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993844407163142185",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993677195370479655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emiya436900: https://t.co/05xneO89vH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993677174436454400"
+          ]
+        },
+        "author_id": "1634940148147441667",
+        "conversation_id": "1993677195370479655",
+        "created_at": "2025-11-26T13:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993677195370479655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05xneO89vH",
+              "end": 23,
+              "expanded_url": "https://x.com/emiya436900/status/1993677195370479655/photo/1",
+              "media_key": "3_1993677174436454400",
+              "start": 0,
+              "url": "https://t.co/05xneO89vH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993677195370479655",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 34941,
+          "like_count": 898,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/05xneO89vH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "无证含糖MTF",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 117,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:31:31.000Z",
+        "description": "#世界治愈计划 #自杀干预 #树洞 一个匿名提问箱https://t.co/qN5UYD3cR4\n小小的荧光，只能散发出微小的光芒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "世界治愈计划"
+              },
+              {
+                "end": 13,
+                "start": 8,
+                "tag": "自杀干预"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "树洞"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/emiya4369",
+                "end": 48,
+                "expanded_url": "https://ngl.link/emiya4369",
+                "start": 25,
+                "url": "https://t.co/qN5UYD3cR4"
+              }
+            ]
+          }
+        },
+        "id": "1634940148147441667",
+        "name": "荧光",
+        "pinned_tweet_id": "1977673236474482893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898513488735272960/v6of14g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4061,
+          "following_count": 457,
+          "like_count": 1865,
+          "listed_count": 10,
+          "media_count": 483,
+          "tweet_count": 2832
+        },
+        "username": "emiya436900",
+        "verified": false
+      }
+    ]
+  }
+}

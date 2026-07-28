@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996899047039553536"
+      ],
+      "media_source_tweet_id": [
+        "1996899059937038736"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1997484968327692784",
+    "created_at": "2025-12-07T01:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T02:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997484968327692784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971006655430262784",
+          "start": 3,
+          "username": "FxxkApexLegend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GV4E1M1koe",
+          "end": 59,
+          "expanded_url": "https://x.com/FxxkApexLegend/status/1996899059937038736/photo/1",
+          "media_key": "3_1996899047039553536",
+          "start": 36,
+          "url": "https://t.co/GV4E1M1koe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997484968327692784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996899059937038736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FxxkApexLegend: 冷知识：黄瓜可以增加人的记忆力 https://t.co/GV4E1M1koe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_1996899047039553536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZpGm8b0AA2bRr.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996899047039553536"
+          ],
+          "media_source_tweet_id": [
+            "1996899059937038736"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1997484968327692784",
+        "created_at": "2025-12-07T01:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T02:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997484968327692784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971006655430262784",
+              "start": 3,
+              "username": "FxxkApexLegend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GV4E1M1koe",
+              "end": 59,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1996899059937038736/photo/1",
+              "media_key": "3_1996899047039553536",
+              "start": 36,
+              "url": "https://t.co/GV4E1M1koe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997484968327692784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996899059937038736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FxxkApexLegend: 冷知识：黄瓜可以增加人的记忆力 https://t.co/GV4E1M1koe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996899047039553536"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1996899059937038736",
+        "created_at": "2025-12-05T11:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996899059937038736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GV4E1M1koe",
+              "end": 39,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1996899059937038736/photo/1",
+              "media_key": "3_1996899047039553536",
+              "start": 16,
+              "url": "https://t.co/GV4E1M1koe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996899059937038736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 34052,
+          "like_count": 611,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：黄瓜可以增加人的记忆力 https://t.co/GV4E1M1koe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 187,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，是翎，嗯造两年雌二醇，🇲🇴  MtX💜🖤💛🤍 蓝标是@goldwater8964 送的😁 对象❤️@juhao0721 ☮️和平主义者 🇺🇦🇵🇸 我不关心政治 我只关心活生生的人\n 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko @minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "juhao0721"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997192651431727105/bBdkrh9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 404,
+          "like_count": 5555,
+          "listed_count": 8,
+          "media_count": 558,
+          "tweet_count": 4741
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": true
+      }
+    ]
+  }
+}

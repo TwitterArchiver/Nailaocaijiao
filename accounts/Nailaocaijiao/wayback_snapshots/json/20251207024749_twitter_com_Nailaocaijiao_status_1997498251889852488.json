@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997110855947923456"
+      ],
+      "media_source_tweet_id": [
+        "1997110862310789429"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1997498251889852488",
+    "created_at": "2025-12-07T02:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997498251889852488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1991667983228497926",
+          "start": 3,
+          "username": "Ld4oBdXwOY92928"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKEJh3YgBG",
+          "end": 48,
+          "expanded_url": "https://x.com/Ld4oBdXwOY92928/status/1997110862310789429/photo/1",
+          "media_key": "3_1997110855947923456",
+          "start": 25,
+          "url": "https://t.co/kKEJh3YgBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997498251889852488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997110862310789429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ld4oBdXwOY92928: 坏猫咪 https://t.co/kKEJh3YgBG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1687,
+        "media_key": "3_1997110855947923456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7cpvgnaMAAqAjU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997110855947923456"
+          ],
+          "media_source_tweet_id": [
+            "1997110862310789429"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1997498251889852488",
+        "created_at": "2025-12-07T02:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997498251889852488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1991667983228497926",
+              "start": 3,
+              "username": "Ld4oBdXwOY92928"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKEJh3YgBG",
+              "end": 48,
+              "expanded_url": "https://x.com/Ld4oBdXwOY92928/status/1997110862310789429/photo/1",
+              "media_key": "3_1997110855947923456",
+              "start": 25,
+              "url": "https://t.co/kKEJh3YgBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997498251889852488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997110862310789429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ld4oBdXwOY92928: 坏猫咪 https://t.co/kKEJh3YgBG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997110855947923456"
+          ]
+        },
+        "author_id": "1991667983228497926",
+        "conversation_id": "1997110862310789429",
+        "created_at": "2025-12-06T01:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T02:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997110862310789429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKEJh3YgBG",
+              "end": 27,
+              "expanded_url": "https://x.com/Ld4oBdXwOY92928/status/1997110862310789429/photo/1",
+              "media_key": "3_1997110855947923456",
+              "start": 4,
+              "url": "https://t.co/kKEJh3YgBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997110862310789429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 35008,
+          "like_count": 719,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "坏猫咪 https://t.co/kKEJh3YgBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 187,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T00:40:32.000Z",
+        "description": "",
+        "id": "1991667983228497926",
+        "name": "非常快5号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991668172928565248/Xl8HBZfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 163,
+          "like_count": 2534,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 593
+        },
+        "username": "Ld4oBdXwOY92928",
+        "verified": false
+      }
+    ]
+  }
+}

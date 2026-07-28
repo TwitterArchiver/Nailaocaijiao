@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026114680129826816"
+      ],
+      "media_source_tweet_id": [
+        "2026341357900443671"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2026521763463705024",
+    "created_at": "2026-02-25T04:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026521763463705024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2UScWoTFm",
+          "end": 44,
+          "expanded_url": "https://x.com/youy1qwq/status/2026341357900443671/photo/1",
+          "media_key": "3_2026114680129826816",
+          "start": 21,
+          "url": "https://t.co/S2UScWoTFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026521763463705024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026341357900443671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 豆包宣示主权 https://t.co/S2UScWoTFm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1998,
+        "media_key": "3_2026114680129826816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB40kRdXsAATIv5.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026114680129826816"
+          ],
+          "media_source_tweet_id": [
+            "2026341357900443671"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2026521763463705024",
+        "created_at": "2026-02-25T04:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026521763463705024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2UScWoTFm",
+              "end": 44,
+              "expanded_url": "https://x.com/youy1qwq/status/2026341357900443671/photo/1",
+              "media_key": "3_2026114680129826816",
+              "start": 21,
+              "url": "https://t.co/S2UScWoTFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026521763463705024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026341357900443671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 豆包宣示主权 https://t.co/S2UScWoTFm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026114680129826816"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2026341357900443671",
+        "created_at": "2026-02-24T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026341357900443671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2UScWoTFm",
+              "end": 30,
+              "expanded_url": "https://x.com/youy1qwq/status/2026341357900443671/photo/1",
+              "media_key": "3_2026114680129826816",
+              "start": 7,
+              "url": "https://t.co/S2UScWoTFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026341357900443671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 42999,
+          "like_count": 454,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "豆包宣示主权 https://t.co/S2UScWoTFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/Hers｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 2808,
+          "like_count": 3631,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 123
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4847,
+          "following_count": 1165,
+          "like_count": 2741,
+          "listed_count": 7,
+          "media_count": 517,
+          "tweet_count": 918
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997168771631665155"
+      ],
+      "media_source_tweet_id": [
+        "1997168787624505393"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1997485133537149030",
+    "created_at": "2025-12-07T01:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T02:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997485133537149030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682912923851841536",
+          "start": 3,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5mdrAGUw1o",
+          "end": 48,
+          "expanded_url": "https://x.com/chan19890604t04/status/1997168787624505393/photo/1",
+          "media_key": "3_1997168771631665155",
+          "start": 25,
+          "url": "https://t.co/5mdrAGUw1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997485133537149030",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997168787624505393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604t04: 🦆🦆🦆 https://t.co/5mdrAGUw1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1997168771631665155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7deapWb0AMKZp8.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997168771631665155"
+          ],
+          "media_source_tweet_id": [
+            "1997168787624505393"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1997485133537149030",
+        "created_at": "2025-12-07T01:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T02:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997485133537149030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682912923851841536",
+              "start": 3,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mdrAGUw1o",
+              "end": 48,
+              "expanded_url": "https://x.com/chan19890604t04/status/1997168787624505393/photo/1",
+              "media_key": "3_1997168771631665155",
+              "start": 25,
+              "url": "https://t.co/5mdrAGUw1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997485133537149030",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997168787624505393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604t04: 🦆🦆🦆 https://t.co/5mdrAGUw1o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997168771631665155"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "conversation_id": "1997168787624505393",
+        "created_at": "2025-12-06T04:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T05:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997168787624505393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mdrAGUw1o",
+              "end": 27,
+              "expanded_url": "https://x.com/chan19890604t04/status/1997168787624505393/photo/1",
+              "media_key": "3_1997168771631665155",
+              "start": 4,
+              "url": "https://t.co/5mdrAGUw1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997168787624505393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 125904,
+          "like_count": 811,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "🦆🦆🦆 https://t.co/5mdrAGUw1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 187,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "1992999502090031395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 1649,
+          "like_count": 66003,
+          "listed_count": 19,
+          "media_count": 12793,
+          "tweet_count": 31768
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

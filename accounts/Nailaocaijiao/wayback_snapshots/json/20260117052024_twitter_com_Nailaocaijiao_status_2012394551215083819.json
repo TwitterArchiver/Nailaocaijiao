@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012173136133808128"
+      ],
+      "media_source_tweet_id": [
+        "2012173140172881978"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2012394551215083819",
+    "created_at": "2026-01-17T05:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T06:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012394551215083819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "696072045210238977",
+          "start": 3,
+          "username": "gallintry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yl1fZao4li",
+          "end": 54,
+          "expanded_url": "https://x.com/gallintry/status/2012173140172881978/photo/1",
+          "media_key": "3_2012173136133808128",
+          "start": 31,
+          "url": "https://t.co/Yl1fZao4li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012394551215083819",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012173140172881978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gallintry: IM A GIRL YAAAY https://t.co/Yl1fZao4li"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2012173136133808128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-yszm3W4AAmyzr.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012173136133808128"
+          ],
+          "media_source_tweet_id": [
+            "2012173140172881978"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2012394551215083819",
+        "created_at": "2026-01-17T05:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012394551215083819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "696072045210238977",
+              "start": 3,
+              "username": "gallintry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl1fZao4li",
+              "end": 54,
+              "expanded_url": "https://x.com/gallintry/status/2012173140172881978/photo/1",
+              "media_key": "3_2012173136133808128",
+              "start": 31,
+              "url": "https://t.co/Yl1fZao4li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012394551215083819",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012173140172881978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gallintry: IM A GIRL YAAAY https://t.co/Yl1fZao4li"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012173136133808128"
+          ]
+        },
+        "author_id": "696072045210238977",
+        "conversation_id": "2012173140172881978",
+        "created_at": "2026-01-16T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012173140172881978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl1fZao4li",
+              "end": 39,
+              "expanded_url": "https://x.com/gallintry/status/2012173140172881978/photo/1",
+              "media_key": "3_2012173136133808128",
+              "start": 16,
+              "url": "https://t.co/Yl1fZao4li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012173140172881978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 11535,
+          "like_count": 1518,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "IM A GIRL YAAAY https://t.co/Yl1fZao4li"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜She/Her｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005151371407052800/eJiutYdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 1779,
+          "like_count": 2113,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 88
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T20:44:42.000Z",
+        "description": "25 | straight edge | christian | pokemon & wrestling fan | poly | ace/demi | lesbian | taken(open) | leftist",
+        "id": "696072045210238977",
+        "location": "Connecticut, USA",
+        "name": "Emmy 🏳️‍⚧️",
+        "pinned_tweet_id": "1981939190603432102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007578734329561088/c9ydpsb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10667,
+          "following_count": 4005,
+          "like_count": 33444,
+          "listed_count": 225,
+          "media_count": 1229,
+          "tweet_count": 14368
+        },
+        "username": "gallintry",
+        "verified": true
+      }
+    ]
+  }
+}

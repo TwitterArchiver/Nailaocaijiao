@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996377804255150080"
+      ],
+      "media_source_tweet_id": [
+        "1996377842700169590"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1996787921798713438",
+    "created_at": "2025-12-05T03:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996787921798713438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "903198090147926016",
+          "start": 3,
+          "username": "postsofkittens"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/htztnCBdIq",
+          "end": 43,
+          "expanded_url": "https://x.com/postsofkittens/status/1996377842700169590/video/1",
+          "media_key": "7_1996377804255150080",
+          "start": 20,
+          "url": "https://t.co/htztnCBdIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996787921798713438",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 410
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996377842700169590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @postsofkittens: https://t.co/htztnCBdIq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7100,
+        "height": 1024,
+        "media_key": "7_1996377804255150080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996377804255150080/pu/img/0KyyEKE2sf9iSe-D.jpg",
+        "public_metrics": {
+          "view_count": 25517
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996377804255150080/pu/vid/avc1/320x568/hGekJhK5k1W3VK52.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996377804255150080/pu/vid/avc1/480x852/0m7gR1gDronfrJTa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996377804255150080/pu/vid/avc1/576x1024/Lj7xu4dpjdq3Ns9E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996377804255150080/pu/pl/D33BBmxMMglpHnfk.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996377804255150080"
+          ],
+          "media_source_tweet_id": [
+            "1996377842700169590"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1996787921798713438",
+        "created_at": "2025-12-05T03:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996787921798713438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "903198090147926016",
+              "start": 3,
+              "username": "postsofkittens"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htztnCBdIq",
+              "end": 43,
+              "expanded_url": "https://x.com/postsofkittens/status/1996377842700169590/video/1",
+              "media_key": "7_1996377804255150080",
+              "start": 20,
+              "url": "https://t.co/htztnCBdIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996787921798713438",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 410
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996377842700169590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @postsofkittens: https://t.co/htztnCBdIq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996377804255150080"
+          ]
+        },
+        "author_id": "903198090147926016",
+        "conversation_id": "1996377842700169590",
+        "created_at": "2025-12-04T00:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996377842700169590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htztnCBdIq",
+              "end": 23,
+              "expanded_url": "https://x.com/postsofkittens/status/1996377842700169590/video/1",
+              "media_key": "7_1996377804255150080",
+              "start": 0,
+              "url": "https://t.co/htztnCBdIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996377842700169590",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 98570,
+          "like_count": 3699,
+          "quote_count": 44,
+          "reply_count": 19,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/htztnCBdIq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "无证含糖MTF",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 144,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-31T10:09:40.000Z",
+        "description": "Follow for endless fluff & fun ✨🐾😺🐶",
+        "id": "903198090147926016",
+        "location": "DM CREDIT/REMOVAL ",
+        "name": "posts of kittens",
+        "pinned_tweet_id": "1995047736803316075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951928052859969536/T2RsrC99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55294,
+          "following_count": 800,
+          "like_count": 7,
+          "listed_count": 179,
+          "media_count": 10451,
+          "tweet_count": 11371
+        },
+        "username": "postsofkittens",
+        "verified": true
+      }
+    ]
+  }
+}

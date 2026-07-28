@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065387453540913152"
+      ],
+      "media_source_tweet_id": [
+        "2065387455575196076"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2065423940127007006",
+    "created_at": "2026-06-12T13:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065423940127007006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823315089686142977",
+          "start": 3,
+          "username": "amnssb1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qlJOQPGUBO",
+          "end": 53,
+          "expanded_url": "https://x.com/amnssb1/status/2065387455575196076/photo/1",
+          "media_key": "3_2065387453540913152",
+          "start": 30,
+          "url": "https://t.co/qlJOQPGUBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065423940127007006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065387455575196076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amnssb1: 要是真有这玩意就好了...... https://t.co/qlJOQPGUBO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 497,
+        "media_key": "3_2065387453540913152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm68jPa0AAzd2d.jpg",
+        "width": 337
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065387453540913152"
+          ],
+          "media_source_tweet_id": [
+            "2065387455575196076"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2065423940127007006",
+        "created_at": "2026-06-12T13:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065423940127007006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823315089686142977",
+              "start": 3,
+              "username": "amnssb1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlJOQPGUBO",
+              "end": 53,
+              "expanded_url": "https://x.com/amnssb1/status/2065387455575196076/photo/1",
+              "media_key": "3_2065387453540913152",
+              "start": 30,
+              "url": "https://t.co/qlJOQPGUBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065423940127007006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065387455575196076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amnssb1: 要是真有这玩意就好了...... https://t.co/qlJOQPGUBO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065387453540913152"
+          ]
+        },
+        "author_id": "1823315089686142977",
+        "conversation_id": "2065387455575196076",
+        "created_at": "2026-06-12T10:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065387455575196076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlJOQPGUBO",
+              "end": 40,
+              "expanded_url": "https://x.com/amnssb1/status/2065387455575196076/photo/1",
+              "media_key": "3_2065387453540913152",
+              "start": 17,
+              "url": "https://t.co/qlJOQPGUBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065387455575196076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要是真有这玩意就好了...... https://t.co/qlJOQPGUBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 4024,
+          "like_count": 7082,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 225
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T11:06:16.000Z",
+        "description": "发癫的而已别在意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "js96110.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.js96110.com.cn",
+                "start": 0,
+                "url": "https://t.co/U4yCQBSf6P"
+              }
+            ]
+          }
+        },
+        "id": "1823315089686142977",
+        "location": "月球",
+        "name": "amnssb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973252076748800/0lRmhUVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 91,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/U4yCQBSf6P",
+        "username": "amnssb1",
+        "verified": true
+      }
+    ]
+  }
+}

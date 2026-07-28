@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2003471720632713283",
+    "created_at": "2026-02-13T03:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022148090900492371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1858393719080366080",
+          "start": 0,
+          "username": "me6pjHT2Rf29076"
+        }
+      ],
+      "urls": [
+        {
+          "description": "690 likes, 11 comments - quarkshk on December 10, 2021: \"🏥 Hashtag: #性別肯定醫療 #genderaffirminghealthcare 🤗 香港有性別認同診所架 1/3 😱 原來香港嘅公立醫院有提供性別認同相關嘅服務，仲有提供醫學上嘅性別過渡服務嘅咩？ 由2016年開始，公營嘅跨性別相關醫療服務，都集中係沙田嘅威爾斯親王醫院。18歲或以上嘅朋友，無論你住係香港邊度，地址屬於邊個醫管局聯網，都係去威院睇架！（當然香港都有私家嘅醫療服務，我地都認識一 d 私家嘅精神科醫生同內分泌科醫生，有需要問我地啊！都唔少朋友先係私家睇，早 d 開始左荷爾蒙藥物先，另一面係威院排隊，等遲 d 轉返睇公立平 d） 威院嘅性別認同診所，同其他專科門診一樣，都需要由醫生轉介，你要帶住醫生寫既轉介信去登記。 💌 轉介信，係每一科既醫生都寫得架，💡就算係寫去性別認同診所，都唔一定要搵精神科醫生寫轉介架！大部份朋友都係搵普通科醫生（如政府普通科門診、私家診所）。你可以直接同醫生講，你係跨性別男生/跨性別女生/性別非二元，或者可以將呢個情況稱為性別不一致/性別不安，而你想請醫生幫你寫封轉介信，去睇威爾斯親王醫院嘅性別認同診所。 🏃 記得係親身去威院交轉介信！係星期一至五平日辦公時間（通常下午一時至二時都唔得，係診所食飯時間！）到時診所護士會幫你進行登記，問返你嘅基本個人資料，同埋性別有關情況，作簡單分流，當日就會幫你預約埋第一次見精神科醫生既時間，俾張預約紙你架喇！（據我地所知，目前由交轉介信到第一次見精神科醫生，要排一年左右） ⚠️ 轉介信要盡早攞去威院啊，跟據醫管局網站，要係最近三個月內簽發的醫生轉介信先會接受架。 ⚠️ 目前威院性別認同診所只接受18歲或以上人士，即使係轉介信，都要係18歲生日當天或之後發出，診所先會接受架。 🎂 暫時未夠18歲，又唔想睇私家，都可以經轉介去公立醫院各聯網既兒童及青少年科睇醫生，醫生會同你一齊了解你既性別認同，同埋係性別過渡方面有無遇到咩困難，面對身邊家人、朋友、同學既情況等等，一般到左你成年嘅時候，醫生會再幫你轉介過去威院嘅性別認同診所。 非常多謝你睇到黎呢到啊，歡迎各位聯絡我地，可以詳細傾多 d 啊 🏳️‍🌈 #性別認同診所 #威爾斯親王醫院 #香港跨性別 #跨性別 #",
+          "display_url": "instagram.com/p/CXU6NBHhH7f/",
+          "end": 40,
+          "expanded_url": "https://www.instagram.com/p/CXU6NBHhH7f/",
+          "start": 17,
+          "status": 200,
+          "title": "跨青時刻 Quarks (@quarkshk) • Instagram photos and videos",
+          "unwound_url": "https://www.instagram.com/p/CXU6NBHhH7f/",
+          "url": "https://t.co/MBEwQXczJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022148090900492371",
+    "in_reply_to_user_id": "1858393719080366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022144693904285718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me6pjHT2Rf29076 https://t.co/MBEwQXczJe\n私家的精神科醫生是可以的，跨青時刻這裡有提及公立的兒童及青少年精神科，應該都可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2003471720632713283",
+        "created_at": "2026-02-13T03:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022148090900492371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "me6pjHT2Rf29076"
+            }
+          ],
+          "urls": [
+            {
+              "description": "690 likes, 11 comments - quarkshk on December 10, 2021: \"🏥 Hashtag: #性別肯定醫療 #genderaffirminghealthcare 🤗 香港有性別認同診所架 1/3 😱 原來香港嘅公立醫院有提供性別認同相關嘅服務，仲有提供醫學上嘅性別過渡服務嘅咩？ 由2016年開始，公營嘅跨性別相關醫療服務，都集中係沙田嘅威爾斯親王醫院。18歲或以上嘅朋友，無論你住係香港邊度，地址屬於邊個醫管局聯網，都係去威院睇架！（當然香港都有私家嘅醫療服務，我地都認識一 d 私家嘅精神科醫生同內分泌科醫生，有需要問我地啊！都唔少朋友先係私家睇，早 d 開始左荷爾蒙藥物先，另一面係威院排隊，等遲 d 轉返睇公立平 d） 威院嘅性別認同診所，同其他專科門診一樣，都需要由醫生轉介，你要帶住醫生寫既轉介信去登記。 💌 轉介信，係每一科既醫生都寫得架，💡就算係寫去性別認同診所，都唔一定要搵精神科醫生寫轉介架！大部份朋友都係搵普通科醫生（如政府普通科門診、私家診所）。你可以直接同醫生講，你係跨性別男生/跨性別女生/性別非二元，或者可以將呢個情況稱為性別不一致/性別不安，而你想請醫生幫你寫封轉介信，去睇威爾斯親王醫院嘅性別認同診所。 🏃 記得係親身去威院交轉介信！係星期一至五平日辦公時間（通常下午一時至二時都唔得，係診所食飯時間！）到時診所護士會幫你進行登記，問返你嘅基本個人資料，同埋性別有關情況，作簡單分流，當日就會幫你預約埋第一次見精神科醫生既時間，俾張預約紙你架喇！（據我地所知，目前由交轉介信到第一次見精神科醫生，要排一年左右） ⚠️ 轉介信要盡早攞去威院啊，跟據醫管局網站，要係最近三個月內簽發的醫生轉介信先會接受架。 ⚠️ 目前威院性別認同診所只接受18歲或以上人士，即使係轉介信，都要係18歲生日當天或之後發出，診所先會接受架。 🎂 暫時未夠18歲，又唔想睇私家，都可以經轉介去公立醫院各聯網既兒童及青少年科睇醫生，醫生會同你一齊了解你既性別認同，同埋係性別過渡方面有無遇到咩困難，面對身邊家人、朋友、同學既情況等等，一般到左你成年嘅時候，醫生會再幫你轉介過去威院嘅性別認同診所。 非常多謝你睇到黎呢到啊，歡迎各位聯絡我地，可以詳細傾多 d 啊 🏳️‍🌈 #性別認同診所 #威爾斯親王醫院 #香港跨性別 #跨性別 #",
+              "display_url": "instagram.com/p/CXU6NBHhH7f/",
+              "end": 40,
+              "expanded_url": "https://www.instagram.com/p/CXU6NBHhH7f/",
+              "start": 17,
+              "status": 200,
+              "title": "跨青時刻 Quarks (@quarkshk) • Instagram photos and videos",
+              "unwound_url": "https://www.instagram.com/p/CXU6NBHhH7f/",
+              "url": "https://t.co/MBEwQXczJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022148090900492371",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022144693904285718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me6pjHT2Rf29076 https://t.co/MBEwQXczJe\n私家的精神科醫生是可以的，跨青時刻這裡有提及公立的兒童及青少年精神科，應該都可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2003471720632713283",
+        "created_at": "2026-02-13T03:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022144693904285718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909290364328108032",
+              "start": 0,
+              "username": "Nailaocaijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022144693904285718",
+        "in_reply_to_user_id": "1909290364328108032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022125993838936521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nailaocaijiao 一般的精神科可以評估嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️｜She/Her｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 2501,
+          "like_count": 3145,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：無\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的，開黃腔的那些，給我滾～～～",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2013151319121416284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 44,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 924
+        },
+        "username": "me6pjHT2Rf29076",
+        "verified": false
+      }
+    ]
+  }
+}

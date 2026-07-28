@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001053772601008130"
+      ],
+      "media_source_tweet_id": [
+        "2001053780381442308"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2001262693010026741",
+    "created_at": "2025-12-17T12:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T13:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001262693010026741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3326305791",
+          "start": 3,
+          "username": "CuteCatsMagic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hrDiizT76J",
+          "end": 42,
+          "expanded_url": "https://x.com/CuteCatsMagic/status/2001053780381442308/photo/1",
+          "media_key": "3_2001053772601008130",
+          "start": 19,
+          "url": "https://t.co/hrDiizT76J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001262693010026741",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001053780381442308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteCatsMagic: https://t.co/hrDiizT76J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2001053772601008130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8UrzdxWoAIl3g1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001053772601008130"
+          ],
+          "media_source_tweet_id": [
+            "2001053780381442308"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2001262693010026741",
+        "created_at": "2025-12-17T12:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001262693010026741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3326305791",
+              "start": 3,
+              "username": "CuteCatsMagic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrDiizT76J",
+              "end": 42,
+              "expanded_url": "https://x.com/CuteCatsMagic/status/2001053780381442308/photo/1",
+              "media_key": "3_2001053772601008130",
+              "start": 19,
+              "url": "https://t.co/hrDiizT76J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001262693010026741",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001053780381442308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteCatsMagic: https://t.co/hrDiizT76J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001053772601008130"
+          ]
+        },
+        "author_id": "3326305791",
+        "conversation_id": "2001053780381442308",
+        "created_at": "2025-12-16T22:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T23:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001053780381442308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrDiizT76J",
+              "end": 23,
+              "expanded_url": "https://x.com/CuteCatsMagic/status/2001053780381442308/photo/1",
+              "media_key": "3_2001053772601008130",
+              "start": 0,
+              "url": "https://t.co/hrDiizT76J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001053780381442308",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 20991,
+          "like_count": 1650,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hrDiizT76J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 705,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-15T06:25:54.000Z",
+        "description": "Follow me to watch the best cat videos.🐱🐾͏",
+        "id": "3326305791",
+        "name": "Cat 🐈",
+        "pinned_tweet_id": "1999391495841800698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801704006932123648/-ngn25vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59925,
+          "following_count": 12982,
+          "like_count": 84538,
+          "listed_count": 152,
+          "media_count": 5611,
+          "tweet_count": 44325
+        },
+        "username": "CuteCatsMagic",
+        "verified": true
+      }
+    ]
+  }
+}

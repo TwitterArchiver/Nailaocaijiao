@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996031285165522953"
+      ],
+      "media_source_tweet_id": [
+        "1996031299468042384"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1996770357039272100",
+    "created_at": "2025-12-05T02:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996770357039272100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906683410594381824",
+          "start": 3,
+          "username": "wngkn194344"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fScuYB0DhL",
+          "end": 57,
+          "expanded_url": "https://x.com/wngkn194344/status/1996031299468042384/photo/1",
+          "media_key": "3_1996031285165522953",
+          "start": 34,
+          "url": "https://t.co/fScuYB0DhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996770357039272100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996031299468042384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wngkn194344: 在广州，发现了现实版的疯狂动物城 https://t.co/fScuYB0DhL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1716,
+        "media_key": "3_1996031285165522953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NT4ODbgAkVIPB.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996031285165522953"
+          ],
+          "media_source_tweet_id": [
+            "1996031299468042384"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1996770357039272100",
+        "created_at": "2025-12-05T02:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996770357039272100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906683410594381824",
+              "start": 3,
+              "username": "wngkn194344"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fScuYB0DhL",
+              "end": 57,
+              "expanded_url": "https://x.com/wngkn194344/status/1996031299468042384/photo/1",
+              "media_key": "3_1996031285165522953",
+              "start": 34,
+              "url": "https://t.co/fScuYB0DhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996770357039272100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996031299468042384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wngkn194344: 在广州，发现了现实版的疯狂动物城 https://t.co/fScuYB0DhL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996031285165522953"
+          ]
+        },
+        "author_id": "1906683410594381824",
+        "conversation_id": "1996031299468042384",
+        "created_at": "2025-12-03T01:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996031299468042384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fScuYB0DhL",
+              "end": 40,
+              "expanded_url": "https://x.com/wngkn194344/status/1996031299468042384/photo/1",
+              "media_key": "3_1996031285165522953",
+              "start": 17,
+              "url": "https://t.co/fScuYB0DhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996031299468042384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 267151,
+          "like_count": 2134,
+          "quote_count": 12,
+          "reply_count": 91,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "在广州，发现了现实版的疯狂动物城 https://t.co/fScuYB0DhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "无证含糖MTF",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 137,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T12:22:54.000Z",
+        "description": "冰糖雪梨有点甜！",
+        "id": "1906683410594381824",
+        "name": "冰糖雪梨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916040261484089346/Hfv62UfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 2459,
+          "like_count": 1601,
+          "listed_count": 8,
+          "media_count": 157,
+          "tweet_count": 167
+        },
+        "username": "wngkn194344",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2033395757836026196",
+    "created_at": "2026-03-16T04:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033395757836026196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1878225515561332736",
+          "start": 3,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033395757836026196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033378092362912207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EScanlon95354: 如果你天生不是跨性别\n→ 就算天天看女装、看变性内容、身边全是女生，你也不会产生“我必须变成女性，不然活着痛苦”的强烈冲动。\n \n如果你天生就是\n→ 不管环境多传统、多压抑，那种内在不适感、渴望成为另一性别的冲动，早晚都会冒出来。\n\n所以跨…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2033395757836026196",
+        "created_at": "2026-03-16T04:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033395757836026196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1878225515561332736",
+              "start": 3,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033395757836026196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033378092362912207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EScanlon95354: 如果你天生不是跨性别\n→ 就算天天看女装、看变性内容、身边全是女生，你也不会产生“我必须变成女性，不然活着痛苦”的强烈冲动。\n \n如果你天生就是\n→ 不管环境多传统、多压抑，那种内在不适感、渴望成为另一性别的冲动，早晚都会冒出来。\n\n所以跨…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878225515561332736",
+        "conversation_id": "2033378092362912207",
+        "created_at": "2026-03-16T03:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T04:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033378092362912207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033378092362912207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 413,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "如果你天生不是跨性别\n→ 就算天天看女装、看变性内容、身边全是女生，你也不会产生“我必须变成女性，不然活着痛苦”的强烈冲动。\n \n如果你天生就是\n→ 不管环境多传统、多压抑，那种内在不适感、渴望成为另一性别的冲动，早晚都会冒出来。\n\n所以跨性别就是天生的，跟后天因素没有关系，也别扯上性压抑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 3162,
+          "like_count": 4376,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 149
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "友跨不翻车！不雌堕！不吃糖！",
+        "id": "1878225515561332736",
+        "name": "大 E（友跨顺直男）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972161890035085312/hmpyjcQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 2462,
+          "like_count": 7028,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 2341
+        },
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

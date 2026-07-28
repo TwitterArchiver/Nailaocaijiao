@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996361503927111680"
+      ],
+      "media_source_tweet_id": [
+        "1996361570239308068"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996779130021683243",
+    "created_at": "2025-12-05T03:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996779130021683243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353169870691549184",
+          "start": 3,
+          "username": "iPaulCanada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2maCWk5EE9",
+          "end": 114,
+          "expanded_url": "https://x.com/iPaulCanada/status/1996361570239308068/video/1",
+          "media_key": "13_1996361503927111680",
+          "start": 91,
+          "url": "https://t.co/2maCWk5EE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996779130021683243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996361570239308068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iPaulCanada: 香港地铁 大埔墟站 写着免费自取，但还是有很多人放下了钱，甚至没花了还有人放钱，箱子空了很快有人补货，补货的人还不是同一个人，让人感动，香港加油！ https://t.co/2maCWk5EE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36866,
+        "height": 1050,
+        "media_key": "13_1996361503927111680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996361503927111680/img/YuJYrSd9zwb0ve2f.jpg",
+        "public_metrics": {
+          "view_count": 184535
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996361503927111680/vid/avc1/320x566/jgvFfpRzJQWtf4xY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996361503927111680/vid/avc1/480x850/QlOM2e5Z4sFgXoUv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996361503927111680/vid/avc1/592x1050/UQuiWXO73zdRKLZs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996361503927111680/pl/p9JMvqgx9L78C0md.m3u8?v=a4e"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996361503927111680"
+          ],
+          "media_source_tweet_id": [
+            "1996361570239308068"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996779130021683243",
+        "created_at": "2025-12-05T03:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996779130021683243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353169870691549184",
+              "start": 3,
+              "username": "iPaulCanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2maCWk5EE9",
+              "end": 114,
+              "expanded_url": "https://x.com/iPaulCanada/status/1996361570239308068/video/1",
+              "media_key": "13_1996361503927111680",
+              "start": 91,
+              "url": "https://t.co/2maCWk5EE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996779130021683243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996361570239308068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iPaulCanada: 香港地铁 大埔墟站 写着免费自取，但还是有很多人放下了钱，甚至没花了还有人放钱，箱子空了很快有人补货，补货的人还不是同一个人，让人感动，香港加油！ https://t.co/2maCWk5EE9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996361503927111680"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1996361570239308068",
+        "created_at": "2025-12-03T23:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T00:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996361570239308068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2maCWk5EE9",
+              "end": 97,
+              "expanded_url": "https://x.com/iPaulCanada/status/1996361570239308068/video/1",
+              "media_key": "13_1996361503927111680",
+              "start": 74,
+              "url": "https://t.co/2maCWk5EE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996361570239308068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 303736,
+          "like_count": 3454,
+          "quote_count": 23,
+          "reply_count": 134,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "香港地铁 大埔墟站 写着免费自取，但还是有很多人放下了钱，甚至没花了还有人放钱，箱子空了很快有人补货，补货的人还不是同一个人，让人感动，香港加油！ https://t.co/2maCWk5EE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "无证含糖MTF",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 141,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "the North Star",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154383,
+          "following_count": 508,
+          "like_count": 7553,
+          "listed_count": 643,
+          "media_count": 10771,
+          "tweet_count": 17257
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

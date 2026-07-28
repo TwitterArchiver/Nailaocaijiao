@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2003471720632713283",
+    "created_at": "2026-03-29T10:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038208054777479391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1858393719080366080",
+          "start": 0,
+          "username": "me6pjHT2Rf29076"
+        }
+      ],
+      "urls": [
+        {
+          "description": "公營服務 | 香港兒童醫院 | 私營服務 | 行為和身份認同上的多元性別表達 | 青春期阻斷劑 | Public service | Hong Kong Children's Hospital | Private service | Gender diverse expressions of behaviour and identities | Puberty blockers",
+          "display_url": "hktransgenderdiverse.info/gac-below-18",
+          "end": 40,
+          "expanded_url": "https://www.hktransgenderdiverse.info/gac-below-18",
+          "start": 17,
+          "status": 200,
+          "title": "香港18歲以下性別肯定醫療 | Gender-affirming Care for Below 18 in Hong Kong",
+          "unwound_url": "https://www.hktransgenderdiverse.info/gac-below-18",
+          "url": "https://t.co/Uo3J6SgVR8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038208054777479391",
+    "in_reply_to_user_id": "1858393719080366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022155648696561673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me6pjHT2Rf29076 https://t.co/Uo3J6SgVR8\n今天剛看到的，複診時可以叫醫生轉介到啟德的香港兒童醫院內分泌科，那𥚃有青春期阻斷劑處方，阻斷劑可以將發育抑制，等到成年再作決定，以免將來因為不可逆的發育（例如身高、骨架、聲音）而後悔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2003471720632713283",
+        "created_at": "2026-03-29T10:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038208054777479391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "me6pjHT2Rf29076"
+            }
+          ],
+          "urls": [
+            {
+              "description": "公營服務 | 香港兒童醫院 | 私營服務 | 行為和身份認同上的多元性別表達 | 青春期阻斷劑 | Public service | Hong Kong Children's Hospital | Private service | Gender diverse expressions of behaviour and identities | Puberty blockers",
+              "display_url": "hktransgenderdiverse.info/gac-below-18",
+              "end": 40,
+              "expanded_url": "https://www.hktransgenderdiverse.info/gac-below-18",
+              "start": 17,
+              "status": 200,
+              "title": "香港18歲以下性別肯定醫療 | Gender-affirming Care for Below 18 in Hong Kong",
+              "unwound_url": "https://www.hktransgenderdiverse.info/gac-below-18",
+              "url": "https://t.co/Uo3J6SgVR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038208054777479391",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022155648696561673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me6pjHT2Rf29076 https://t.co/Uo3J6SgVR8\n今天剛看到的，複診時可以叫醫生轉介到啟德的香港兒童醫院內分泌科，那𥚃有青春期阻斷劑處方，阻斷劑可以將發育抑制，等到成年再作決定，以免將來因為不可逆的發育（例如身高、骨架、聲音）而後悔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2003471720632713283",
+        "created_at": "2026-02-13T03:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022155648696561673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909290364328108032",
+              "start": 0,
+              "username": "Nailaocaijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022155648696561673",
+        "in_reply_to_user_id": "1909290364328108032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022148090900492371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nailaocaijiao 我下次複診和醫生說一下我現在性別焦慮的嚴重程度，先看看醫生怎麼說吧\n（我和醫生說過但是我不敢讓家長知道）\n（本來其實沒那麼嚴重，最近才越來越嚴重）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 3364,
+          "like_count": 4892,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 163
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：有个世界上最好的姐姐 \n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！\n已有对象（姐姐）已有对象（姐姐）已有对象（姐姐）\ntree（3）秒内应该不会分手",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2036775919294279809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 89,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 2041
+        },
+        "username": "me6pjHT2Rf29076",
+        "verified": false
+      }
+    ]
+  }
+}

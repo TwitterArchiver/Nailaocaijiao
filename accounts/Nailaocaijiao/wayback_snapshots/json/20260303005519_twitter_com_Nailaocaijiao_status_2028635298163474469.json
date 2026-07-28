@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028434421825818624"
+      ],
+      "media_source_tweet_id": [
+        "2028434427697910011"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "2028635298163474469",
+    "created_at": "2026-03-03T00:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T01:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028635298163474469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942218631267639296",
+          "start": 3,
+          "username": "Shiho_MtF_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9h74BSyFpX",
+          "end": 52,
+          "expanded_url": "https://x.com/Shiho_MtF_/status/2028434427697910011/photo/1",
+          "media_key": "3_2028434421825818624",
+          "start": 29,
+          "url": "https://t.co/9h74BSyFpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028635298163474469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028434427697910011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiho_MtF_: 世界で1番嫌いな欄です。 https://t.co/9h74BSyFpX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2028434421825818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZyXAsaUAAsz_H.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028434421825818624"
+          ],
+          "media_source_tweet_id": [
+            "2028434427697910011"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2028635298163474469",
+        "created_at": "2026-03-03T00:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028635298163474469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942218631267639296",
+              "start": 3,
+              "username": "Shiho_MtF_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9h74BSyFpX",
+              "end": 52,
+              "expanded_url": "https://x.com/Shiho_MtF_/status/2028434427697910011/photo/1",
+              "media_key": "3_2028434421825818624",
+              "start": 29,
+              "url": "https://t.co/9h74BSyFpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028635298163474469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028434427697910011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiho_MtF_: 世界で1番嫌いな欄です。 https://t.co/9h74BSyFpX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028434421825818624"
+          ]
+        },
+        "author_id": "1942218631267639296",
+        "conversation_id": "2028434427697910011",
+        "created_at": "2026-03-02T11:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028434427697910011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9h74BSyFpX",
+              "end": 36,
+              "expanded_url": "https://x.com/Shiho_MtF_/status/2028434427697910011/photo/1",
+              "media_key": "3_2028434421825818624",
+              "start": 13,
+              "url": "https://t.co/9h74BSyFpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028434427697910011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 20360,
+          "like_count": 449,
+          "quote_count": 23,
+          "reply_count": 25,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "世界で1番嫌いな欄です。 https://t.co/9h74BSyFpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 2922,
+          "like_count": 3835,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 130
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:30.000Z",
+        "description": "￤中3(10)￤レズ&パンセク￤MtF￤ピアニスト￤作曲家・作詞家￤サブ垢@Shiho_MtF_Sub￤音楽活動垢🎧@Shiho_music_ ￤ 私の詳細は《さらに表示》をタップ！￤何かあったら相談いつでもお待ちしております￤救急？迷ったら#7119へ！￤相談受付中！￤💍@naqu_0￤🔗必見！￤ミセス好き￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Shiho_MtF_Sub"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Shiho_music_"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "naqu_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shiho_MtF_",
+                "end": 23,
+                "expanded_url": "https://lit.link/shiho_MtF_",
+                "start": 0,
+                "url": "https://t.co/U9gdg63t5H"
+              }
+            ]
+          }
+        },
+        "id": "1942218631267639296",
+        "location": "東京🗼￤パキ中‼️￤看護師目指してるよ🩺￤",
+        "name": "しほ໒꒱꒰ ྀི ∩⸝⸝∩ ꒱ෆ˚*",
+        "pinned_tweet_id": "2026247675407196311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017941653869502464/PYtMjCCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 357,
+          "like_count": 10093,
+          "listed_count": 5,
+          "media_count": 60,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/U9gdg63t5H",
+        "username": "Shiho_MtF_",
+        "verified": true
+      }
+    ]
+  }
+}

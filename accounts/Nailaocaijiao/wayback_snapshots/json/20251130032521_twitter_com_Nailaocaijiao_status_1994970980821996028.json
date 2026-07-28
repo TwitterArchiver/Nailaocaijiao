@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994672368237633536"
+      ],
+      "media_source_tweet_id": [
+        "1994672391763771807"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1994970980821996028",
+    "created_at": "2025-11-30T03:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994970980821996028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "987410641685221376",
+          "start": 3,
+          "username": "cutecats_____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J0WPHUtgFK",
+          "end": 42,
+          "expanded_url": "https://x.com/cutecats_____/status/1994672391763771807/video/1",
+          "media_key": "7_1994672368237633536",
+          "start": 19,
+          "url": "https://t.co/J0WPHUtgFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994970980821996028",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 735
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994672391763771807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutecats_____: https://t.co/J0WPHUtgFK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1252,
+        "media_key": "7_1994672368237633536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994672368237633536/pu/img/Mx7OizNFjimxUOCS.jpg",
+        "public_metrics": {
+          "view_count": 283397
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994672368237633536/pu/vid/avc1/320x568/8_O-CWKa4wx2IDXa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994672368237633536/pu/vid/avc1/480x852/GjDanFfA0dyCOgtN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994672368237633536/pu/vid/avc1/704x1252/8YvD_G1dNngBhupm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994672368237633536/pu/pl/9_m7Nr8-G20MDB1O.m3u8?v=cfc"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994672368237633536"
+          ],
+          "media_source_tweet_id": [
+            "1994672391763771807"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1994970980821996028",
+        "created_at": "2025-11-30T03:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994970980821996028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "987410641685221376",
+              "start": 3,
+              "username": "cutecats_____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0WPHUtgFK",
+              "end": 42,
+              "expanded_url": "https://x.com/cutecats_____/status/1994672391763771807/video/1",
+              "media_key": "7_1994672368237633536",
+              "start": 19,
+              "url": "https://t.co/J0WPHUtgFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994970980821996028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 735
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994672391763771807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutecats_____: https://t.co/J0WPHUtgFK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994672368237633536"
+          ]
+        },
+        "author_id": "987410641685221376",
+        "conversation_id": "1994672391763771807",
+        "created_at": "2025-11-29T07:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994672391763771807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0WPHUtgFK",
+              "end": 23,
+              "expanded_url": "https://x.com/cutecats_____/status/1994672391763771807/video/1",
+              "media_key": "7_1994672368237633536",
+              "start": 0,
+              "url": "https://t.co/J0WPHUtgFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994672391763771807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 832,
+          "impression_count": 558936,
+          "like_count": 8085,
+          "quote_count": 45,
+          "reply_count": 24,
+          "retweet_count": 735
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/J0WPHUtgFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "无证含糖MTF",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 120,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-20T19:20:16.000Z",
+        "description": "I buy food for stray cats with my subscription income. If you subscribe to me for $10 or offer me a cup of coffee, stray cats will be fed.🐱💟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cutecats_____",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/cutecats_____",
+                "start": 0,
+                "url": "https://t.co/Gie8DUIoUy"
+              }
+            ]
+          }
+        },
+        "id": "987410641685221376",
+        "name": "Cute Cats 🐱",
+        "pinned_tweet_id": "1993968040296251858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743626523939155968/aKHsguUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76529,
+          "following_count": 1032,
+          "like_count": 120494,
+          "listed_count": 357,
+          "media_count": 32501,
+          "tweet_count": 102691
+        },
+        "url": "https://t.co/Gie8DUIoUy",
+        "username": "cutecats_____",
+        "verified": true
+      }
+    ]
+  }
+}

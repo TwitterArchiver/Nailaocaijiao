@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998020063660826624"
+      ],
+      "media_source_tweet_id": [
+        "1998020074679275682"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "conversation_id": "1998333707804193220",
+    "created_at": "2025-12-09T10:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T11:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998333707804193220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682912923851841536",
+          "start": 3,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jVu4GgtwKE",
+          "end": 51,
+          "expanded_url": "https://x.com/chan19890604t04/status/1998020074679275682/photo/1",
+          "media_key": "3_1998020063660826624",
+          "start": 28,
+          "url": "https://t.co/jVu4GgtwKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998333707804193220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998020074679275682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604t04: 三頭地獄哈🐕 https://t.co/jVu4GgtwKE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_1998020063660826624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pkqXSbYAA0OD3.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998020063660826624"
+          ],
+          "media_source_tweet_id": [
+            "1998020074679275682"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "1998333707804193220",
+        "created_at": "2025-12-09T10:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998333707804193220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682912923851841536",
+              "start": 3,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVu4GgtwKE",
+              "end": 51,
+              "expanded_url": "https://x.com/chan19890604t04/status/1998020074679275682/photo/1",
+              "media_key": "3_1998020063660826624",
+              "start": 28,
+              "url": "https://t.co/jVu4GgtwKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998333707804193220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998020074679275682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604t04: 三頭地獄哈🐕 https://t.co/jVu4GgtwKE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998020063660826624"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "conversation_id": "1998020074679275682",
+        "created_at": "2025-12-08T13:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998020074679275682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVu4GgtwKE",
+              "end": 30,
+              "expanded_url": "https://x.com/chan19890604t04/status/1998020074679275682/photo/1",
+              "media_key": "3_1998020063660826624",
+              "start": 7,
+              "url": "https://t.co/jVu4GgtwKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998020074679275682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 16466,
+          "like_count": 999,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "三頭地獄哈🐕 https://t.co/jVu4GgtwKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "MTF🏳️‍⚧️｜无证含糖🍥｜HRT 2025.11.25｜坐标香港🇭🇰",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946580444672003/_rdvkmEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 200,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "Nailaocaijiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "1992999502090031395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 1652,
+          "like_count": 66334,
+          "listed_count": 20,
+          "media_count": 12852,
+          "tweet_count": 31853
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}
