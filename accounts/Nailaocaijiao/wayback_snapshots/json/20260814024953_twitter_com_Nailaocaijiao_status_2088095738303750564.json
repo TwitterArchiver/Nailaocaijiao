@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088067943259119616"
+      ],
+      "media_source_tweet_id": [
+        "2088067955024183398"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088095738303750564",
+    "created_at": "2026-08-14T02:49:53.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088095738303750564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2060632417153503234",
+          "start": 3,
+          "username": "AsahinaShikure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pKYmUfLl8z",
+          "end": 90,
+          "expanded_url": "https://x.com/AsahinaShikure/status/2088067955024183398/photo/1",
+          "media_key": "3_2088067943259119616",
+          "start": 67,
+          "url": "https://t.co/pKYmUfLl8z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088095738303750564",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088067943259119616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088067955024183398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsahinaShikure: 全世界跨性别者联合起来！\nTrans people of the world, unite! https://t.co/pKYmUfLl8z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2088067943259119616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpOuzjXIAAHjhp.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088067943259119616"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088067955024183398",
+        "created_at": "2026-08-14T00:59:29.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088067955024183398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKYmUfLl8z",
+              "end": 70,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2088067955024183398/photo/1",
+              "media_key": "3_2088067943259119616",
+              "start": 47,
+              "url": "https://t.co/pKYmUfLl8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088067955024183398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088067943259119616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1214,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "全世界跨性别者联合起来！\nTrans people of the world, unite! https://t.co/pKYmUfLl8z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088067943259119616"
+          ],
+          "media_source_tweet_id": [
+            "2088067955024183398"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088095738303750564",
+        "created_at": "2026-08-14T02:49:53.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088095738303750564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2060632417153503234",
+              "start": 3,
+              "username": "AsahinaShikure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKYmUfLl8z",
+              "end": 90,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2088067955024183398/photo/1",
+              "media_key": "3_2088067943259119616",
+              "start": 67,
+              "url": "https://t.co/pKYmUfLl8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088095738303750564",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088067943259119616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088067955024183398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsahinaShikure: 全世界跨性别者联合起来！\nTrans people of the world, unite! https://t.co/pKYmUfLl8z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2088095738303750564",
+        "name": "奶酪彩椒🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909290364328108032/1769401680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 4461,
+          "like_count": 8263,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬|中三学生|14岁|MtF🏳️‍⚧️|尚未HRT🍥| 世界计划|朝比奈まふゆ激推|语言🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷🌏 |格里芬联邦共和国总统| 中国民主党人 |社会自由主义 |行政院长：@L2e_dawndream |好朋友：@Liuyue_626 |联邦政府X：@urggov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 99,
+                "username": "L2e_dawndream"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Liuyue_626"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "urggov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/rErgygNg5a",
+                "end": 23,
+                "expanded_url": "https://discord.gg/rErgygNg5a",
+                "start": 0,
+                "url": "https://t.co/eZ2qUeHDSb"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore🇸🇬",
+        "most_recent_tweet_id": "2088067955024183398",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2086626578323099825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1783224715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 1405,
+          "like_count": 4780,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/eZ2qUeHDSb",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
