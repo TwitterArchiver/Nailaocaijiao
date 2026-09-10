@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2003471720632713283",
+    "created_at": "2026-09-05T15:16:24.000Z",
+    "display_text_range": [
+      17,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096256139180818774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033221729884291073",
+          "start": 0,
+          "username": "LemPackageMain2"
+        }
+      ],
+      "urls": [
+        {
+          "description": "今年（2026年）是香港醫院管理局轄下性別認同診所（Gender Identity Clinic，以下簡稱 GIC）成立十周年的日子。十年前，當局將分散的跨性別相關醫療服務集中化，於威爾斯親王醫院設立全港唯一的 GIC 專科診所，當時承諾為跨性別及多元性別人士提供一站式、更具專業性的醫療支援。然而十年過去，這個體制換來的不是服務的優化與普及，而是幾近崩潰的輪候機制、嚴重萎縮的醫療資源，以及公營醫療體系在面對少眾社群生命訴求時，令人齒冷的冷漠、官僚與傲慢。 作為長期關注跨性別權益的組織，PrideLab 與其他服務跨性別社群的團體，在過去一直努力與醫管局保持定期的交流會面。然而，雙方上一次正式交流已要追溯到2023年12月——至今已過去將近兩年，期間幾次催促重啟會議皆無功而還。 這兩年間，前線積壓的醫療危機早已演變成水深火熱的災難。今年1月30日，PrideLab 代表社群再次向醫管局發出詳細查詢信件，羅列了極為嚴峻的臨床數據，並連月催促重啟會面。直到5月中旬我們發出聯合追進電郵後，醫管局機構傳訊部終於在5月20日給予了回覆。 令人憤怒的是，這封拖延甚久的回覆只有寥寥百字，全文僅以「本局經已收悉」、「會採取務實態度，與各持份者進行協調」等官僚套話敷衍。",
+          "display_url": "inmediahk.net/node/%E7%94%9F…",
+          "end": 40,
+          "expanded_url": "https://www.inmediahk.net/node/%E7%94%9F%E6%B4%BB/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E8%A8%BA%E6%89%80%E5%8D%81%E5%91%A8%E5%B9%B4%EF%BC%9A%E6%8B%BF%E8%97%A5%E7%AD%895%E5%B9%B4%E3%80%81%E6%89%8B%E8%A1%93%E7%AD%8910%E5%B9%B4%EF%BC%8C%E9%86%AB%E7%AE%A1%E5%B1%80%E9%82%84%E8%A6%81%E8%A3%9D%E8%81%BE%E4%BD%9C%E5%95%9E%E5%88%B0%E5%B9%BE%E6%99%82%EF%BC%9F",
+          "images": [
+            {
+              "height": 492,
+              "url": "https://pbs.twimg.com/news_img/2096256150970970112/tsbjit5c?format=jpg&name=orig",
+              "width": 940
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096256150970970112/tsbjit5c?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "性別認同診所十周年：拿藥等5年、手術等10年，醫管局還要裝聾作啞到幾時？ | PrideLab | 獨立媒體",
+          "unwound_url": "https://www.inmediahk.net/node/%E7%94%9F%E6%B4%BB/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E8%A8%BA%E6%89%80%E5%8D%81%E5%91%A8%E5%B9%B4%EF%BC%9A%E6%8B%BF%E8%97%A5%E7%AD%895%E5%B9%B4%E3%80%81%E6%89%8B%E8%A1%93%E7%AD%8910%E5%B9%B4%EF%BC%8C%E9%86%AB%E7%AE%A1%E5%B1%80%E9%82%84%E8%A6%81%E8%A3%9D%E8%81%BE%E4%BD%9C%E5%95%9E%E5%88%B0%E5%B9%BE%E6%99%82%EF%BC%9F",
+          "url": "https://t.co/WlK6qCdno7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096256139180818774",
+    "in_reply_to_user_id": "2033221729884291073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096251681533223383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemPackageMain2 https://t.co/WlK6qCdno7\n\n香港的跨性别组织跟医院方面反映过这个问题，但轮候时间依然越来越长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2003471720632713283",
+        "created_at": "2026-09-05T15:16:24.000Z",
+        "display_text_range": [
+          17,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096256139180818774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033221729884291073",
+              "start": 0,
+              "username": "LemPackageMain2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "今年（2026年）是香港醫院管理局轄下性別認同診所（Gender Identity Clinic，以下簡稱 GIC）成立十周年的日子。十年前，當局將分散的跨性別相關醫療服務集中化，於威爾斯親王醫院設立全港唯一的 GIC 專科診所，當時承諾為跨性別及多元性別人士提供一站式、更具專業性的醫療支援。然而十年過去，這個體制換來的不是服務的優化與普及，而是幾近崩潰的輪候機制、嚴重萎縮的醫療資源，以及公營醫療體系在面對少眾社群生命訴求時，令人齒冷的冷漠、官僚與傲慢。 作為長期關注跨性別權益的組織，PrideLab 與其他服務跨性別社群的團體，在過去一直努力與醫管局保持定期的交流會面。然而，雙方上一次正式交流已要追溯到2023年12月——至今已過去將近兩年，期間幾次催促重啟會議皆無功而還。 這兩年間，前線積壓的醫療危機早已演變成水深火熱的災難。今年1月30日，PrideLab 代表社群再次向醫管局發出詳細查詢信件，羅列了極為嚴峻的臨床數據，並連月催促重啟會面。直到5月中旬我們發出聯合追進電郵後，醫管局機構傳訊部終於在5月20日給予了回覆。 令人憤怒的是，這封拖延甚久的回覆只有寥寥百字，全文僅以「本局經已收悉」、「會採取務實態度，與各持份者進行協調」等官僚套話敷衍。",
+              "display_url": "inmediahk.net/node/%E7%94%9F…",
+              "end": 40,
+              "expanded_url": "https://www.inmediahk.net/node/%E7%94%9F%E6%B4%BB/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E8%A8%BA%E6%89%80%E5%8D%81%E5%91%A8%E5%B9%B4%EF%BC%9A%E6%8B%BF%E8%97%A5%E7%AD%895%E5%B9%B4%E3%80%81%E6%89%8B%E8%A1%93%E7%AD%8910%E5%B9%B4%EF%BC%8C%E9%86%AB%E7%AE%A1%E5%B1%80%E9%82%84%E8%A6%81%E8%A3%9D%E8%81%BE%E4%BD%9C%E5%95%9E%E5%88%B0%E5%B9%BE%E6%99%82%EF%BC%9F",
+              "images": [
+                {
+                  "height": 492,
+                  "url": "https://pbs.twimg.com/news_img/2096256150970970112/tsbjit5c?format=jpg&name=orig",
+                  "width": 940
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096256150970970112/tsbjit5c?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "性別認同診所十周年：拿藥等5年、手術等10年，醫管局還要裝聾作啞到幾時？ | PrideLab | 獨立媒體",
+              "unwound_url": "https://www.inmediahk.net/node/%E7%94%9F%E6%B4%BB/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E8%A8%BA%E6%89%80%E5%8D%81%E5%91%A8%E5%B9%B4%EF%BC%9A%E6%8B%BF%E8%97%A5%E7%AD%895%E5%B9%B4%E3%80%81%E6%89%8B%E8%A1%93%E7%AD%8910%E5%B9%B4%EF%BC%8C%E9%86%AB%E7%AE%A1%E5%B1%80%E9%82%84%E8%A6%81%E8%A3%9D%E8%81%BE%E4%BD%9C%E5%95%9E%E5%88%B0%E5%B9%BE%E6%99%82%EF%BC%9F",
+              "url": "https://t.co/WlK6qCdno7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096256139180818774",
+        "in_reply_to_user_id": "2033221729884291073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096251681533223383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemPackageMain2 https://t.co/WlK6qCdno7\n\n香港的跨性别组织跟医院方面反映过这个问题，但轮候时间依然越来越长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033221729884291073",
+        "conversation_id": "2003471720632713283",
+        "created_at": "2026-09-05T14:58:42.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096251681533223383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909290364328108032",
+              "start": 0,
+              "username": "Nailaocaijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096251681533223383",
+        "in_reply_to_user_id": "1909290364328108032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096251520627180018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nailaocaijiao 我勒个豆。。。那如果去大陆开呢？大陆还是挺好开这个的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2096256139180818774",
+        "name": "奶酪彩椒🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909290364328108032/1769401680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 4551,
+          "like_count": 8540,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T16:42:00.000Z",
+        "description": "🍥转生自@LemPackageMain1，没错我号又没了😅歡迎互fo，眼熟的會主動回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "LemPackageMain1"
+              }
+            ]
+          }
+        },
+        "id": "2033221729884291073",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096253237309645058",
+        "name": "柠檬味的MaIn包🍞",
+        "pinned_tweet_id": "2093972638310019377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033221729884291073/1773593391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094053460874522624/uoct_cR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 21,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "LemPackageMain2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

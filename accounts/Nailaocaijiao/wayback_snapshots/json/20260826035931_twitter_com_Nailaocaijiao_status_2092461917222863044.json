@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092344770299613184"
+      ],
+      "media_source_tweet_id": [
+        "2092351164411163031"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2092461917222863044",
+    "created_at": "2026-08-26T03:59:31.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092461917222863044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j67wv1cGba",
+          "end": 112,
+          "expanded_url": "https://x.com/ServalCandle/status/2092351164411163031/photo/1",
+          "media_key": "3_2092344770299613184",
+          "start": 89,
+          "url": "https://t.co/j67wv1cGba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092461917222863044",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092344770299613184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092351164411163031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 做了没有什么实际意义的漫画_(:з」∠)_\n\n单纯是因为今天看到这两条推肩并肩出现在时间线上有点抽象（（（\n\n“跨性别也要参加男女对立吗？” https://t.co/j67wv1cGba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092344770299613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmAe51a0AAiZUU.jpg",
+        "width": 2276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092344770299613184"
+          ],
+          "media_source_tweet_id": [
+            "2092351164411163031"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2092461917222863044",
+        "created_at": "2026-08-26T03:59:31.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092461917222863044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j67wv1cGba",
+              "end": 112,
+              "expanded_url": "https://x.com/ServalCandle/status/2092351164411163031/photo/1",
+              "media_key": "3_2092344770299613184",
+              "start": 89,
+              "url": "https://t.co/j67wv1cGba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092461917222863044",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092344770299613184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092351164411163031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 做了没有什么实际意义的漫画_(:з」∠)_\n\n单纯是因为今天看到这两条推肩并肩出现在时间线上有点抽象（（（\n\n“跨性别也要参加男女对立吗？” https://t.co/j67wv1cGba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092344770299613184"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2092351164411163031",
+        "created_at": "2026-08-25T20:39:26.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:14:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092344788414829023",
+          "2092351164411163031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j67wv1cGba",
+              "end": 94,
+              "expanded_url": "https://x.com/ServalCandle/status/2092351164411163031/photo/1",
+              "media_key": "3_2092344770299613184",
+              "start": 71,
+              "url": "https://t.co/j67wv1cGba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092351164411163031",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092344770299613184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7149,
+          "like_count": 104,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "做了没有什么实际意义的漫画_(:з」∠)_\n\n单纯是因为今天看到这两条推肩并肩出现在时间线上有点抽象（（（\n\n“跨性别也要参加男女对立吗？” https://t.co/j67wv1cGba"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2092461917222863044",
+        "name": "奶酪彩椒🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909290364328108032/1769401680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 4512,
+          "like_count": 8391,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "和男朋友一起六年啦！\n頭像是自拍 / 身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "is_identity_verified": true,
+        "location": "🐈🥖Pain chat🥯🙀",
+        "most_recent_tweet_id": "2092373220917969069",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705777407794352129/1773447136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077249341929164800/EBapClID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34178,
+          "following_count": 422,
+          "like_count": 237689,
+          "listed_count": 110,
+          "media_count": 9393,
+          "tweet_count": 61202
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

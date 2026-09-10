@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2091458704948461571",
+    "created_at": "2026-08-23T09:33:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T10:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091458704948461571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1150753335881826305",
+          "start": 3,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091458704948461571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091390965307076677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acacia038: “跨性别医疗”是顺性别者的特权。\n因意外失去生殖器的顺男可以做阴茎成型，切除乳房的顺女可以要求乳房再造，性早熟的顺性别儿童可以名正言顺使用青春期阻滞剂，连激素药物都是为顺性别的需求开发的。\n而顺性别者不需要和家庭和精神科和守门人医疗体系反复漫长的拉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2091458704948461571",
+        "created_at": "2026-08-23T09:33:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091458704948461571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1150753335881826305",
+              "start": 3,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091458704948461571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091390965307076677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acacia038: “跨性别医疗”是顺性别者的特权。\n因意外失去生殖器的顺男可以做阴茎成型，切除乳房的顺女可以要求乳房再造，性早熟的顺性别儿童可以名正言顺使用青春期阻滞剂，连激素药物都是为顺性别的需求开发的。\n而顺性别者不需要和家庭和精神科和守门人医疗体系反复漫长的拉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "2091390965307076677",
+        "created_at": "2026-08-23T05:03:56.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091390965307076677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091390965307076677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2376,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "“跨性别医疗”是顺性别者的特权。\n因意外失去生殖器的顺男可以做阴茎成型，切除乳房的顺女可以要求乳房再造，性早熟的顺性别儿童可以名正言顺使用青春期阻滞剂，连激素药物都是为顺性别的需求开发的。\n而顺性别者不需要和家庭和精神科和守门人医疗体系反复漫长的拉锯战，只要有医疗需求，就能享有这一切"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2091458704948461571",
+        "name": "奶酪彩椒🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909290364328108032/1769401680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 4515,
+          "like_count": 8382,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "飼い殺してくれますか",
+        "id": "1150753335881826305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091455593466769467",
+        "name": "Charlotte",
+        "pinned_tweet_id": "2084147417440547047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150753335881826305/1784478996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063532315619328/MwXmHmj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 329,
+          "like_count": 4924,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 2197
+        },
+        "url": "",
+        "username": "acacia038",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

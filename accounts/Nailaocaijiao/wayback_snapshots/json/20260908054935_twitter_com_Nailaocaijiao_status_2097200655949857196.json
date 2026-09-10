@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2097200655949857196",
+    "created_at": "2026-09-08T05:49:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097200655949857196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1430973520452800515",
+          "start": 3,
+          "username": "XmeowwoemX_017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097200655949857196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096954801976418531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XmeowwoemX_017: “跨女不是扮演女性的男性，反倒更像是从青春期甚至更小起被迫扮演男性的女性”这么浅显的道理怎么这么多人不懂..？这么多身边的跨妹都反应transition之后性情反而变得更大方、更不扭捏...\n至于自我猫塑说话带喵之类，恐怕没有一个人是因为…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2097200655949857196",
+        "created_at": "2026-09-08T05:49:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097200655949857196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1430973520452800515",
+              "start": 3,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097200655949857196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096954801976418531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XmeowwoemX_017: “跨女不是扮演女性的男性，反倒更像是从青春期甚至更小起被迫扮演男性的女性”这么浅显的道理怎么这么多人不懂..？这么多身边的跨妹都反应transition之后性情反而变得更大方、更不扭捏...\n至于自我猫塑说话带喵之类，恐怕没有一个人是因为…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430973520452800515",
+        "conversation_id": "2096954801976418531",
+        "created_at": "2026-09-07T13:32:38.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096954801976418531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096954801976418531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 427,
+          "impression_count": 95766,
+          "like_count": 4062,
+          "quote_count": 26,
+          "reply_count": 44,
+          "retweet_count": 498
+        },
+        "reply_settings": "everyone",
+        "text": "“跨女不是扮演女性的男性，反倒更像是从青春期甚至更小起被迫扮演男性的女性”这么浅显的道理怎么这么多人不懂..？这么多身边的跨妹都反应transition之后性情反而变得更大方、更不扭捏...\n至于自我猫塑说话带喵之类，恐怕没有一个人是因为“向女性靠拢”才这么做的，只是一种面临巨大环境压力时的退行罢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2097200655949857196",
+        "name": "奶酪彩椒🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909290364328108032/1769401680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 4577,
+          "like_count": 8590,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️(not quite binary) transfem | 22yo | HRT since: Feb 2025 (CPA) / Jun 2025 (E2) \n很孤单请和我抱抱",
+        "id": "1430973520452800515",
+        "is_identity_verified": false,
+        "location": "Auckland, NZ / Beijing ",
+        "most_recent_tweet_id": "2097180829084705044",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "2056706170178748500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430973520452800515/1685132943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 425,
+          "like_count": 43429,
+          "listed_count": 7,
+          "media_count": 761,
+          "tweet_count": 5828
+        },
+        "url": "",
+        "username": "XmeowwoemX_017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
