@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107450093947568128"
+      ],
+      "media_source_tweet_id": [
+        "2107450100310331652"
+      ]
+    },
+    "author_id": "1909290364328108032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2108047215835201625",
+    "created_at": "2026-10-08T04:09:56.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T05:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108047215835201625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2443616203",
+          "start": 3,
+          "username": "bluenashark"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AOtmy6nsTQ",
+          "end": 83,
+          "expanded_url": "https://x.com/bluenashark/status/2107450100310331652/photo/1",
+          "media_key": "3_2107450093947568128",
+          "start": 60,
+          "url": "https://t.co/AOtmy6nsTQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108047215835201625",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2107450093947568128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107450100310331652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluenashark: 腰痛くて寝込んでてお絵描きくらいしかできなくて、サメちゃん描いてあげた。🎨🦈似てる？ https://t.co/AOtmy6nsTQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107450093947568128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8qsdebwAAwZ7i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107450093947568128"
+          ],
+          "media_source_tweet_id": [
+            "2107450100310331652"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2108047215835201625",
+        "created_at": "2026-10-08T04:09:56.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T05:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108047215835201625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2443616203",
+              "start": 3,
+              "username": "bluenashark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOtmy6nsTQ",
+              "end": 83,
+              "expanded_url": "https://x.com/bluenashark/status/2107450100310331652/photo/1",
+              "media_key": "3_2107450093947568128",
+              "start": 60,
+              "url": "https://t.co/AOtmy6nsTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108047215835201625",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107450093947568128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107450100310331652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluenashark: 腰痛くて寝込んでてお絵描きくらいしかできなくて、サメちゃん描いてあげた。🎨🦈似てる？ https://t.co/AOtmy6nsTQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107450093947568128"
+          ]
+        },
+        "author_id": "2443616203",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107450100310331652",
+        "created_at": "2026-10-06T12:37:13.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107450100310331652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOtmy6nsTQ",
+              "end": 66,
+              "expanded_url": "https://x.com/bluenashark/status/2107450100310331652/photo/1",
+              "media_key": "3_2107450093947568128",
+              "start": 43,
+              "url": "https://t.co/AOtmy6nsTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107450100310331652",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107450093947568128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1863,
+          "like_count": 145,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "腰痛くて寝込んでてお絵描きくらいしかできなくて、サメちゃん描いてあげた。🎨🦈似てる？ https://t.co/AOtmy6nsTQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2108047215835201625",
+        "name": "奶酪彩椒🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909290364328108032/1769401680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 4753,
+          "like_count": 9086,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-04-14T09:13:56.000Z",
+        "description": "サメたちと暮らしてるサメ人間だよ！\nオリジナルでサメグッズつくったり、ミニチュア作り、3Dモデリングなど、いろいろ！！\n販売もしてるよ、たまに宣伝するよ🦈💦\n通販に関する問い合わせは各サイトよりお願いします！総合リンク→ https://t.co/7Ai41Ty0zY 画像の無断転載NG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Bluenashark",
+                "end": 134,
+                "expanded_url": "https://lit.link/Bluenashark",
+                "start": 111,
+                "url": "https://t.co/7Ai41Ty0zY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluenashark.booth.pm",
+                "end": 23,
+                "expanded_url": "https://bluenashark.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/np3WqQpFWN"
+              }
+            ]
+          }
+        },
+        "id": "2443616203",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107855492815159773",
+        "name": "Bluena Shark",
+        "pinned_tweet_id": "2050187696254099606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2443616203/1414515480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840825823739461633/z3joyEE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 293,
+          "like_count": 3790,
+          "listed_count": 12,
+          "media_count": 751,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/np3WqQpFWN",
+        "username": "bluenashark",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

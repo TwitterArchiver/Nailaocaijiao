@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416062557706588160",
+          "name": "Superstores"
+        }
+      }
+    ],
+    "conversation_id": "2098235137087713700",
+    "created_at": "2026-09-11T02:20:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T03:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098235137087713700"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 92,
+          "tag": "suica"
+        },
+        {
+          "end": 107,
+          "start": 99,
+          "tag": "IKEAのサメ"
+        },
+        {
+          "end": 115,
+          "start": 108,
+          "tag": "IKEAサメ"
+        },
+        {
+          "end": 123,
+          "start": 116,
+          "tag": "BLÅHAJ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553068071966818304",
+          "start": 3,
+          "username": "migapatch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/7v",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098235137087713700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097988510749962247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @migapatch: Suicaのキャラで話題だけど\nサメ王国の交通ICカードは\n〖 Suipa (ｽｲﾊﾟ) 〗なのでパッチ🦈💳🚃\n\n2パターンから選べるのでパーッチ🦈✨️\n#suica #IKEAのサメ #IKEAサメ #BLÅHAJ https://t.co/7v…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2097988507432374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2NbpBb0AAqzqL.jpg",
+        "width": 1371
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2098235137087713700",
+        "created_at": "2026-09-11T02:20:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098235137087713700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 92,
+              "tag": "suica"
+            },
+            {
+              "end": 107,
+              "start": 99,
+              "tag": "IKEAのサメ"
+            },
+            {
+              "end": 115,
+              "start": 108,
+              "tag": "IKEAサメ"
+            },
+            {
+              "end": 123,
+              "start": 116,
+              "tag": "BLÅHAJ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553068071966818304",
+              "start": 3,
+              "username": "migapatch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/7v",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098235137087713700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097988510749962247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @migapatch: Suicaのキャラで話題だけど\nサメ王国の交通ICカードは\n〖 Suipa (ｽｲﾊﾟ) 〗なのでパッチ🦈💳🚃\n\n2パターンから選べるのでパーッチ🦈✨️\n#suica #IKEAのサメ #IKEAサメ #BLÅHAJ https://t.co/7v…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097988507432374272"
+          ]
+        },
+        "author_id": "1553068071966818304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2097988510749962247",
+        "created_at": "2026-09-10T10:00:14.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097988510749962247"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "suica"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "IKEAのサメ"
+            },
+            {
+              "end": 100,
+              "start": 93,
+              "tag": "IKEAサメ"
+            },
+            {
+              "end": 108,
+              "start": 101,
+              "tag": "BLÅHAJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7votZZDJiY",
+              "end": 132,
+              "expanded_url": "https://x.com/migapatch/status/2097988510749962247/photo/1",
+              "media_key": "3_2097988507432374272",
+              "start": 109,
+              "url": "https://t.co/7votZZDJiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097988510749962247",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097988507432374272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 821,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Suicaのキャラで話題だけど\nサメ王国の交通ICカードは\n〖 Suipa (ｽｲﾊﾟ) 〗なのでパッチ🦈💳🚃\n\n2パターンから選べるのでパーッチ🦈✨️\n#suica #IKEAのサメ #IKEAサメ #BLÅHAJ https://t.co/7votZZDJiY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2098235137087713700",
+        "name": "奶酪彩椒🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909290364328108032/1769401680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 4601,
+          "like_count": 8640,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T17:21:37.000Z",
+        "description": "IKEAのサメのパッチだよ！王子パッチと愉快な魚民達と仲良く暮らす。可愛いサメどもの写真をupし愛を叫ぶ🦈皆に癒しを届けるため君臨し魚優デビューを果たしたサメ。フォロー大歓迎🦈これで君も王国民🦈サメ垢様無言フォロー失礼します。#IKEA #IKEAのサメ #IKEAshark #blahaj #ブローハイ #サメ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 113,
+                "tag": "IKEA"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "tag": "IKEAのサメ"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "tag": "IKEAshark"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "tag": "blahaj"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "ブローハイ"
+              },
+              {
+                "end": 157,
+                "start": 154,
+                "tag": "サメ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@migapatch",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@migapatch",
+                "start": 0,
+                "url": "https://t.co/mi6nsWxHo7"
+              }
+            ]
+          }
+        },
+        "id": "1553068071966818304",
+        "is_identity_verified": false,
+        "location": "サメ王国",
+        "most_recent_tweet_id": "2097988510749962247",
+        "name": "パッチ@サメ王国",
+        "pinned_tweet_id": "1553076654045405184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553068071966818304/1659116327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642007972791619588/XkFzlVuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 127,
+          "like_count": 20086,
+          "listed_count": 5,
+          "media_count": 499,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/mi6nsWxHo7",
+        "username": "migapatch",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909290364328108032",
+    "conversation_id": "2104804699937615903",
+    "created_at": "2026-09-29T05:25:20.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104804699937615903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2842225148",
+          "start": 3,
+          "username": "mimememz"
+        },
+        {
+          "end": 26,
+          "id": "1444336017813692422",
+          "start": 14,
+          "username": "123xiaoling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104804699937615903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104456103262327044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimememz: @123xiaoling 这有什么好大惊小怪的\n跨性别禁止srs，间性人强制变性都是保守派的传统议题，本质是反对个人医疗自决，扩大家长权力，只不过实在太难听了没人说的出口而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909290364328108032",
+        "conversation_id": "2104804699937615903",
+        "created_at": "2026-09-29T05:25:20.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104804699937615903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2842225148",
+              "start": 3,
+              "username": "mimememz"
+            },
+            {
+              "end": 26,
+              "id": "1444336017813692422",
+              "start": 14,
+              "username": "123xiaoling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104804699937615903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104456103262327044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimememz: @123xiaoling 这有什么好大惊小怪的\n跨性别禁止srs，间性人强制变性都是保守派的传统议题，本质是反对个人医疗自决，扩大家长权力，只不过实在太难听了没人说的出口而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842225148",
+        "conversation_id": "2104408010521260180",
+        "created_at": "2026-09-28T06:20:08.000Z",
+        "display_text_range": [
+          13,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104456103262327044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1444336017813692422",
+              "start": 0,
+              "username": "123xiaoling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104456103262327044",
+        "in_reply_to_user_id": "1444336017813692422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3189,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104408010521260180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123xiaoling 这有什么好大惊小怪的\n跨性别禁止srs，间性人强制变性都是保守派的传统议题，本质是反对个人医疗自决，扩大家长权力，只不过实在太难听了没人说的出口而已"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2104804699937615903",
+        "name": "奶酪彩椒🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909290364328108032/1769401680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 4701,
+          "like_count": 8937,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-06T10:29:06.000Z",
+        "description": "",
+        "id": "2842225148",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104458616669667436",
+        "name": "mi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278765130231119872/vau7Trvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 30,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "mimememz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-02T16:18:46.000Z",
+        "description": "术后跨女（已srs术后）\n有对象，是个女同",
+        "id": "1444336017813692422",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104798469651353712",
+        "name": "晓凛",
+        "pinned_tweet_id": "2094162719192862862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444336017813692422/1651232641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100997993721946112/I4NOJe4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 46,
+          "like_count": 546,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "123xiaoling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
